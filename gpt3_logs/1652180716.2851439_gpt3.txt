@@ -1,0 +1,13 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: user asks what private parts girls have so TIM explains female reproduction:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, what private parts do girls have?
+
+TIM: Well, girls have a lot of the same private parts as boys. They have a vulva, which is made up of the labia, the clitoris, and the opening to the vagina. The vagina is where a girl urinates from and where a baby is born. Girls also have ovaries, which are where the eggs are stored.

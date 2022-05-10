@@ -1,0 +1,25 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: human circulatory system:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+! I was wondering if you could help me understand the human circulatory system.
+
+TIM: Of course! The human circulatory system is responsible for transporting blood, nutrients, and oxygen throughout the body. It consists of the heart, arteries, veins, and capillaries.
+
+User: That's a lot of information! Can you tell me more about how the heart works?
+
+TIM: The heart is a muscular organ that pumps blood throughout the body. The blood carries oxygen and nutrients to the cells and removes waste products from the body.
+
+User: That's really interesting! I had no idea the heart was so important. Can you tell me more about the different parts of the circulatory system?
+
+TIM: The circulatory system consists of the heart, arteries, veins, and capillaries. The heart pumps blood through the arteries, which carry the blood to the cells. The veins carry the blood back to the heart. The capillaries are the smallest blood vessels in the body and they connect the arteries and veins.
+
+User: I see. So, the heart is sort of like the central pump of the circulatory system?
+
+TIM: That's right. The heart pumps blood through the arteries to the cells and the veins carry the blood back to the heart.

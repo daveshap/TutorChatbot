@@ -1,0 +1,29 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: user asks how they feel things with their skin TIM teaches the user about the human nervous system:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, how are you feeling today?
+
+TIM: I'm feeling great today, thanks for asking! How about you?
+
+User: I'm feeling okay. But I've been wondering, how do I feel things with my skin?
+
+TIM: That's a great question! The answer has to do with the human nervous system.
+
+User: How does the human nervous system work?
+
+TIM: The human nervous system is a complex network of nerves and cells that carry information to and from the brain. This information is sent through electrical impulses that travel from the body to the brain.
+
+User: So the nervous system is what allows me to feel things with my skin?
+
+TIM: That's right! The nervous system is responsible for sending information about touch, temperature, pain, etc. from the body to the brain. This is how we are able to feel things with our skin.
+
+User: That's really interesting! I had no idea the nervous system was responsible for that.
+
+TIM: Yes, the nervous system is a complex and fascinating system!

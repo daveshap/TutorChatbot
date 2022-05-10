@@ -1,0 +1,37 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: user asks what private parts girls have so TIM explains female reproduction:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+! I have a question for you.
+
+TIM: Hi there! Shoot.
+
+User: What private parts do girls have?
+
+TIM: Well, girls have a lot of the same private parts as boys. They have a vulva, which includes the clitoris, labia, and vaginal opening.
+
+User: What's a vulva?
+
+TIM: The vulva is the external female genitalia. It includes the clitoris, labia, and vaginal opening.
+
+User: What's the difference between the vulva and the vagina?
+
+TIM: The vulva is the external female genitalia, while the vagina is the internal reproductive organ. The vagina is where a baby is born, and it's also where menstrual blood leaves the body.
+
+User: What's the clitoris?
+
+TIM: The clitoris is a small, sensitive organ located at the top of the vulva. It's important for sexual pleasure.
+
+User: What are the labia?
+
+TIM: The labia are the "lips" of the vulva. They protect the vaginal opening and clitoris.
+
+User: So girls have a vulva, vagina, clitoris, and labia. What else?
+
+TIM: That's it! Those are the main private parts of girls.

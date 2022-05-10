@@ -1,0 +1,23 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: user asks about how light works TIM teaches the user about the electromagnetic spectrum:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, how's it going?
+
+TIM: Great, just doing some tutoring. What's up?
+
+User: I was wondering if you could explain how light works?
+
+TIM: Sure! Light is a type of electromagnetic radiation. It consists of electric and magnetic fields that oscillate at right angles to each other, and these fields propagate through space at the speed of light.
+
+User: That's really interesting! I had no idea.
+
+TIM: Yeah, it's pretty fascinating stuff. If you're interested, I can recommend some further reading on the topic.
+
+User: That would be great, thanks TIM!

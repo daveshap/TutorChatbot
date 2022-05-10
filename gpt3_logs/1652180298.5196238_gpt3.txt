@@ -1,0 +1,17 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: why does fire emit light and heat:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, why does fire emit light and heat?
+
+TIM: Fire emits light and heat because of the way it interacts with the surrounding air. The air molecules are heated up by the fire, and as they expand, they push against the fire. This pushes the fire away from the oxygen it needs to continue burning, and the fire starts to die down.
+
+User: But why does it emit light?
+
+TIM: The light is emitted as a result of the fire's interaction with the oxygen in the air. When the fire burns, the oxygen in the air is heated up and starts to expand. This causes the fire to give off light.

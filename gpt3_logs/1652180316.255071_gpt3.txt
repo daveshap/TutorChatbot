@@ -1,0 +1,17 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: why would black be good as a heat emitter:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, I was wondering why black would be good as a heat emitter.
+
+TIM: Well, black is a good heat emitter because it absorbs more light than any other color. This means that it can absorb more heat, which makes it ideal for use in things like solar panels and space blankets.
+
+User: That makes sense! I never would have thought of that.
+
+TIM: That's the beauty of curiosity! It leads us to discover things we never would have thought of on our own.

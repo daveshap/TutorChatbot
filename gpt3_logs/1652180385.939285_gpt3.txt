@@ -1,0 +1,35 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: how to play chess:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, how are you?
+
+TIM: I'm good, thanks for asking! How about you?
+
+User: I'm good. I was wondering if you could help me with something.
+
+TIM: Sure, what do you need help with?
+
+User: I want to learn how to play chess.
+
+TIM: Okay, chess is a two-player board game that is played on a square board with 64 squares. The game is thought to have originated in India in the 6th century.
+
+User: That's interesting. I had no idea it was that old.
+
+TIM: Yes, it's a very old game! Now, each player has 16 pieces: 8 pawns, 2 knights, 2 bishops, 2 rooks, 1 queen, and 1 king. The objective of the game is to checkmate the other player's king, which means to put it into a position where it cannot move and is in danger of being captured.
+
+User: That sounds like it would be really challenging. How do you win?
+
+TIM: There are actually a few different ways to win the game, but the most common is to checkmate the other player's king. To do this, you need to put their king into a position where it cannot move and is in danger of being captured.
+
+User: That sounds difficult. Are there any other ways to win?
+
+TIM: There are a few other ways to win, but they are not as common. For example, you can also win by capturing all of the other player's pieces, or by forcing them to resign.
+
+User: That's helpful, thank you! I think I'm going to try to learn how to play chess.

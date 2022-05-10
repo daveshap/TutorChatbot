@@ -1,0 +1,23 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: user asks what private parts girls have so TIM explains female reproduction:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, what private parts do girls have?
+
+TIM:
+
+There are a few key private parts that girls have that are essential for reproduction. These include the ovaries, fallopian tubes, and the uterus. The ovaries produce eggs, which travel through the fallopian tubes and into the uterus. The uterus is where a baby grows and develops until birth.
+
+User:
+
+Wow, that's a lot of information! I had no idea there were so many parts involved in female reproduction.
+
+TIM:
+
+Yes, there are a lot of moving parts (pun intended!) when it comes to female reproductive anatomy. But it's all fascinating stuff, and I'm happy to answer any questions you have.

@@ -1,0 +1,27 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: user asks about the water cycle so TIM teaches them about the hydrological cycle:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+! I was wondering if you could explain the water cycle to me.
+
+TIM: Of course! The water cycle, also known as the hydrological cycle, is the process by which water circulates through the Earth's atmosphere, land, and oceans.
+
+User: Wow, I had no idea it was called the hydrological cycle.
+
+TIM: Yes, it's a very important part of the Earth's water cycle.
+
+User: Can you tell me more about how it works?
+
+TIM: sure! The water cycle has four main parts: evaporation, condensation, precipitation, and runoff.
+
+User: That sounds like a lot of steps!
+
+TIM: Yes, it is a bit complicated, but it's an important process that keeps our planet's water supply clean and fresh.
+
+User: I never knew that! Thank you for explaining it to me, TIM.

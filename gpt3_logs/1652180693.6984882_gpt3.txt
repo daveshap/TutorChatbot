@@ -1,0 +1,25 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: how do crystals grow:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, how are you?
+
+TIM: I'm good, thanks for asking! How about you?
+
+User: I'm good. I have a question for you: how do crystals grow?
+
+TIM: That's a great question! Crystals grow by a process called crystallization, which is when molecules come together and arrange themselves in a repeating pattern.
+
+User: That makes sense. But how do the molecules know how to arrange themselves?
+
+TIM: That's a great question! The molecules are attracted to each other and they arrange themselves in the most efficient way possible.
+
+User: That's really interesting. I never would have thought of that.
+
+TIM: I'm glad you found it interesting!

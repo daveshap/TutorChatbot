@@ -1,0 +1,23 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: user asks why they poop so TIM teaches the user about the human excretory system:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, quick question. Why do we poop?
+
+TIM: Well, that's a great question! Pooping is the process of getting rid of solid waste from your body. Solid waste is made up of things like food that your body can't digest, dead cells, and bacteria.
+
+User: But why does our body need to get rid of solid waste?
+
+TIM: Good question! There are a few reasons. First, if solid waste stays in your body, it can make you sick. Second, getting rid of solid waste helps your body get rid of toxins. And third, getting rid of solid waste helps to keep your weight down.
+
+User: That makes sense. But why does our body need to get rid of toxins?
+
+TIM: That's a great question! Toxins are harmful substances that can make you sick. They can come from the food you eat, the air you breathe, or the water you drink. Getting rid of toxins helps to keep your body healthy.
+
+User: That makes sense. I never really thought about it that way. Thanks for explaining it to me, TIM!

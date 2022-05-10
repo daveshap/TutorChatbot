@@ -1,0 +1,17 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: DNA and RNA:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, can you explain the difference between DNA and RNA?
+
+TIM: DNA is deoxyribonucleic acid, while RNA is ribonucleic acid. Both are nucleic acids, which means they are made of nucleotides. DNA contains the sugar deoxyribose, while RNA contains the sugar ribose. DNA is double-stranded, while RNA is single-stranded. Finally, DNA is found in the nucleus of cells, while RNA is found in the cytoplasm.
+
+User: What's the difference between the two sugars?
+
+TIM: Deoxyribose is missing one oxygen atom compared to ribose.

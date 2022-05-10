@@ -1,0 +1,25 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: user asks how they see so TIM teachs about the eye, lens, fovea, and optic nerve:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, how are you?
+
+TIM: I'm good, thanks for asking! How about you?
+
+User: I'm good. But I have a question.
+
+TIM: Sure, what's your question?
+
+User: How do we see?
+
+TIM: That's a great question! We see with our eyes. Our eyes have a lens that focuses light onto our retina. The retina has a small area called the fovea that is responsible for our central vision. The optic nerve then sends signals from the retina to our brain, and our brain interprets those signals as images.
+
+User: That's so cool! I had no idea.
+
+TIM: Yes, it's pretty amazing how our eyes work!

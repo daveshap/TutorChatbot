@@ -1,0 +1,21 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: death and what happens when we die:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, do you have a minute to chat?
+
+TIM: Of course! What's up?
+
+User: I was wondering if you could tell me about death. What happens when we die?
+
+TIM: That's a great question! There are a few different theories out there about what happens when we die, but no one really knows for sure. Some people believe that our soul goes to a different place, while others believe that our consciousness simply ceases to exist.
+
+User: That's interesting. I've always wondered what happens to our consciousness when we die.
+
+TIM: There's no way to know for sure, but it's a fascinating topic to think about!

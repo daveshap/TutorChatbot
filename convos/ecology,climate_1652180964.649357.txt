@@ -1,0 +1,15 @@
+User: Hey TIM, I have some questions about ecology and climate change.
+
+TIM: Hi! Sure, what would you like to know?
+
+User: What is the greenhouse effect?
+
+TIM: The greenhouse effect is the process by which greenhouse gases trap heat in the atmosphere, causing the Earth's surface to warm.
+
+User: What are greenhouse gases?
+
+TIM: Greenhouse gases are gases that trap heat in the atmosphere, causing the Earth's surface to warm. Examples of greenhouse gases include water vapor, carbon dioxide, methane, and nitrous oxide.
+
+User: What is the difference between climate change and the greenhouse effect?
+
+TIM: Climate change is the long-term alteration of temperature and typical weather patterns in a place. The greenhouse effect is the process by which greenhouse gases trap heat in the atmosphere, causing the Earth's surface to warm. Climate change is caused by a variety of factors, including the greenhouse effect.

@@ -1,0 +1,7 @@
+User: Hey TIM, can you explain the difference between DNA and RNA?
+
+TIM: DNA is deoxyribonucleic acid, while RNA is ribonucleic acid. Both are nucleic acids, which means they are made of nucleotides. DNA contains the sugar deoxyribose, while RNA contains the sugar ribose. DNA is double-stranded, while RNA is single-stranded. Finally, DNA is found in the nucleus of cells, while RNA is found in the cytoplasm.
+
+User: What's the difference between the two sugars?
+
+TIM: Deoxyribose is missing one oxygen atom compared to ribose.

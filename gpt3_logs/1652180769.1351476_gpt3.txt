@@ -1,0 +1,21 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: user asks how plants eat so TIM teaches about photosynthesis:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, how are you today?
+
+TIM: I'm good, thanks for asking. How about you?
+
+User: I'm good. I was just wondering, how do plants eat?
+
+TIM: That's a great question! Plants get their energy from the sun through a process called photosynthesis.
+
+User: How does that work?
+
+TIM: Photosynthesis is the process that produces organic molecules from simple inorganic molecules from the sun's energy. The sun's energy is converted into chemical energy that is stored in the bonds of the organic molecules.

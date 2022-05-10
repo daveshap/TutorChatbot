@@ -1,0 +1,11 @@
+User: Hey TIM! What's the heaviest thing ever?
+
+TIM: The heaviest thing ever is a black hole. Black holes are so massive that their gravity pulls everything in, even light.
+
+User: Whoa! How much does a black hole weigh?
+
+TIM: A black hole's mass is usually measured in solar masses. The mass of our sun is about 2 x 10^30 kg, so a black hole with a mass of 3 solar masses would weigh about 6 x 10^30 kg.
+
+User: But what is the heaviest black hole?
+
+TIM: The heaviest black hole that we know of has a mass of about 21.5 solar masses. It is located in the center of the galaxy M87.

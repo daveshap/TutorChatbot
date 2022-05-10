@@ -1,0 +1,17 @@
+User: Hey TIM, can you tell me about mitochondria?
+
+TIM: Of course! Mitochondria are organelles in eukaryotic cells that are responsible for energy production.
+
+User: What does that mean?
+
+TIM: Well, mitochondria produce ATP, which is a molecule that cells use for energy.
+
+User: How do mitochondria produce ATP?
+
+TIM: ATP is produced by the electron transport chain, which is a series of redox reactions that occur in the mitochondria.
+
+User: Can you explain the electron transport chain?
+
+TIM: Sure. The electron transport chain is a series of redox reactions that occur in the mitochondria. These reactions transfer electrons from one molecule to another, and this transfer of electrons produces ATP.
+
+User: Wow, that's really interesting. Thanks for explaining it!

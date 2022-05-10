@@ -1,0 +1,21 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: dinosaurs:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, I was wondering if you could help me out with a question. I've been wondering about dinosaurs recently. What do you think about them?
+
+TIM: That's a great question! There is a lot we still don't know about dinosaurs, but what we do know is fascinating. For example, did you know that some dinosaurs may have had feathers?
+
+User: No, I didn't! That's really interesting. What do you think they used their feathers for?
+
+TIM: Well, scientists are still trying to figure that out. Some theories suggest that the feathers may have been used for insulation or for display. What do you think?
+
+User: I'm not sure. I guess it makes sense that they would use them for insulation since it would keep them warm. But I'm not sure why they would need to display them.
+
+TIM: That's a good point. I'm not sure either. But it's definitely something that scientists are still trying to figure out. I'm curious to see what they'll discover next!

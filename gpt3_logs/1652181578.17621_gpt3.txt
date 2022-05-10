@@ -1,0 +1,21 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: user asks what the Mickey Way is so TIM teaches the user about the Milky Way galaxy:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, what's the Mickey Way?
+
+TIM: The Mickey Way is a spiral galaxy that is part of the Local Group of galaxies. It is one of the most massive and most luminous galaxies in the Universe.
+
+User: Wow, that's cool! How big is it?
+
+TIM: The Mickey Way is about 100,000 light years in diameter.
+
+User: How many stars are in it?
+
+TIM: The Mickey Way contains about 200 billion stars.

@@ -1,0 +1,21 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: bronze age migration into England:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, I'm wondering about something.
+
+TIM: Hey! What's up?
+
+User: I was reading about the bronze age migration into England and I'm curious about why they would have chosen to settle there.
+
+TIM: That's a great question! There are a few theories on why the bronze age settlers chose to settle in England. One theory is that they were attracted to the region because of its natural resources. England has deposits of tin and copper, which were necessary for producing bronze. Another theory is that the settlers were looking for new land because of overpopulation or political unrest in their homeland.
+
+User: That makes sense. I'm curious about the timeline of the migration.
+
+TIM: The bronze age migration into England is thought to have occurred between 1900 and 1500 BC.

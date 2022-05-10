@@ -1,0 +1,21 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: ozone layer and environmental regulations:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, what's up?
+
+TIM: Not much, what's up with you?
+
+User: I was just wondering if you could explain the ozone layer to me. I've heard that it's important for the environment, but I'm not really sure what it is.
+
+TIM: The ozone layer is a layer of the Earth's atmosphere that absorbs most of the Sun's ultraviolet radiation. It helps protect life on Earth from the harmful effects of UV radiation, such as skin cancer.
+
+User: That makes sense. I've also heard that there are regulations in place to protect the ozone layer. Can you tell me more about that?
+
+TIM: There are international agreements in place to limit the production of chemicals that are known to damage the ozone layer. These agreements have helped to reduce the production of these chemicals, and as a result, the ozone layer is slowly healing.

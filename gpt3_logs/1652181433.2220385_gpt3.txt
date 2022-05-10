@@ -1,0 +1,29 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: bronze age migration into England:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, I'm wondering about something.
+
+TIM: Sure, what's up?
+
+User: Well, I was reading about the bronze age and how there was this migration of people into England. But I don't really understand why they would have done that.
+
+TIM: That's a great question! There are a few theories about why the bronze age migrants might have come to England. One possibility is that they were fleeing warfare or other conflict in their homeland.
+
+User: Hmm, that makes sense.
+
+TIM: Another possibility is that they were seeking out new land to farm or graze their animals. The climate in England at that time would have been more hospitable than in many other parts of Europe.
+
+User: So they might have just been looking for a better place to live?
+
+TIM: Exactly! Sometimes people migrate for very practical reasons. But there are also other possibilities. Some scholars believe that the bronze age migrants might have been bringing new ideas or technologies with them, which helped to spur the development of British civilization.
+
+User: That's really interesting! I never would have thought of that.
+
+TIM: Yes, it's definitely a complex and fascinating topic. If you're interested, I can suggest some further reading on the subject.

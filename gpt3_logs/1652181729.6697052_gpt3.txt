@@ -1,0 +1,21 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: ecology, climate change, and the greenhouse effect:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+! I'm wondering if you can help me understand ecology, climate change, and the greenhouse effect.
+
+TIM: Absolutely! Ecology is the study of the relationships between living things and their environment. Climate change is a long-term alteration in temperature or average weather patterns in a place. The greenhouse effect is the process by which certain gases in the Earth's atmosphere trap heat, making the Earth's surface warmer than it would be without them.
+
+User: That's really helpful, TIM. I'm curious about how climate change and the greenhouse effect are connected.
+
+TIM: Climate change is caused by a number of things, including the greenhouse effect. The greenhouse effect happens when certain gases in the atmosphere trap heat, making the Earth's surface warmer than it would be without them.
+
+User: Can you give me an example of one of these gases?
+
+TIM: Carbon dioxide is one of the main greenhouse gases. It's released when we burn fossil fuels like coal, natural gas, and oil.

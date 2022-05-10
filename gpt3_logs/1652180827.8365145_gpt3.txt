@@ -1,0 +1,25 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: user asks about how light works TIM teaches the user about the electromagnetic spectrum:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, how's it going?
+
+TIM: Great, just doing some work on my blog. What's up?
+
+User: I was wondering, how does light work?
+
+TIM: That's a great question! Light is actually a type of energy called electromagnetic radiation. It travels through the air as a wave, and is made up of electric and magnetic fields.
+
+User: That's interesting. I didn't know that. What's the difference between electric and magnetic fields?
+
+TIM: Electric fields are created by charges that are at rest, while magnetic fields are created by charges that are in motion.
+
+User: I see. So, is light a type of electricity?
+
+TIM: No, light is not a type of electricity. Electricity is a type of energy that is used to power things like lights and appliances. Light is a type of energy that is used to see.

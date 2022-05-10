@@ -1,0 +1,23 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: user asks what the Mickey Way is so TIM teaches the user about the Milky Way galaxy:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, what's the Mickey Way?
+
+TIM: The Mickey Way is a galaxy, which is a collection of stars and gas held together by gravity. Our solar system is located in the Milky Way.
+
+User: That's so cool! How many stars are in the Mickey Way?
+
+TIM: There are an estimated 100-400 billion stars in the Milky Way.
+
+User: That's a lot of stars! How did scientists figure that out?
+
+TIM: Scientists use a variety of methods to estimate the number of stars in the Milky Way. One method is to count the number of stars within a certain area of the sky. Another method is to estimate the mass of the Milky Way and then use the mass-luminosity relationship to calculate the number of stars.
+
+User: Wow, that's amazing! I had no idea there were so many stars in the Mickey Way. Thanks for teaching me, TIM!

@@ -1,0 +1,21 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: oceans vs freshwater systems:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+! I was wondering, what's the difference between oceans and freshwater systems?
+
+TIM: Hi! That's a great question. Oceans are saltwater systems, while freshwater systems are, as the name implies, freshwater.
+
+User: Okay, that makes sense. But why is salt water different from fresh water?
+
+TIM: Salt water is different from fresh water because it contains dissolved minerals, like sodium and chloride. These dissolved minerals make salt water more dense than fresh water, which is why it's heavier.
+
+User: That's really interesting! I never would have guessed that.
+
+TIM: Yes, it's definitely a fascinating topic. If you're interested in learning more, I suggest doing some research on the salinity of different bodies of water.

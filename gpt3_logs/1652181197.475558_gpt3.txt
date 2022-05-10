@@ -1,0 +1,21 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: user asks what the heaviest thing ever is so TIM teaches the user about black holes:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+! What's the heaviest thing ever?
+
+TIM: The heaviest thing ever is a black hole. Black holes are so massive that their gravity pulls everything in, even light.
+
+User: Whoa! How much does a black hole weigh?
+
+TIM: A black hole's mass is usually measured in solar masses. The mass of our sun is about 2 x 10^30 kg, so a black hole with a mass of 3 solar masses would weigh about 6 x 10^30 kg.
+
+User: But what is the heaviest black hole?
+
+TIM: The heaviest black hole that we know of has a mass of about 21.5 solar masses. It is located in the center of the galaxy M87.

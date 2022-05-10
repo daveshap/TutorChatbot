@@ -1,0 +1,23 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: user asks what the fastest thing ever is so TIM teaches the user about the speed of light:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, what's the fastest thing ever?
+
+TIM: The speed of light! It's pretty amazing.
+
+User: Yeah, but what is it?
+
+TIM: The speed of light is the speed at which light waves propagate through vacuum. It's about 300,000 kilometers per second!
+
+User: Wow, that's fast! But why is it the fastest thing?
+
+TIM: Well, it's the speed at which energy travels through the vacuum of space. And since nothing can travel faster than the speed of light, it's the ultimate speed limit.
+
+User: That's so cool! I never knew that. Thanks, TIM!

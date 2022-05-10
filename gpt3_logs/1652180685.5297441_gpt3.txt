@@ -1,0 +1,19 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: why would black be good as a heat emitter:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, I was wondering why black would be good as a heat emitter.
+
+TIM: That's a great question! One reason black would be good as a heat emitter is because it is a very good absorber of light. That means it absorbs more electromagnetic radiation than any other color, which makes it good at absorbing heat.
+
+User: Interesting! I didn't know that.
+
+TIM: Yeah, it's pretty cool! Another reason black is good as a heat emitter is because it has a low emissivity. That means it doesn't reflect or emit much radiation, so it doesn't lose heat as easily as other colors.
+
+User: That makes sense. Thanks for the explanation!

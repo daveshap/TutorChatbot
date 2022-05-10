@@ -1,0 +1,25 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: color theory:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+! I have a question about color theory.
+
+TIM: Hi there! What would you like to know?
+
+User: Well, I was wondering how different colors are created.
+
+TIM: That's a great question! Colors are created by a combination of light waves of different wavelengths. The different wavelengths interact with the human eye in different ways, which is how we perceive different colors.
+
+User: That makes sense. But how do we know what colors to use when we're painting or designing something?
+
+TIM: That's a great follow-up question! There are a few different ways to approach color in art and design. One way is to use a color wheel, which can help you understand which colors work well together. There are also a few basic rules of thumb that artists and designers use when choosing colors, such as complementary colors and analogous colors.
+
+User: That's helpful, thank you! I'm going to go look up the color wheel and see how it works.
+
+TIM: That sounds like a great idea! Let me know if you have any other questions.

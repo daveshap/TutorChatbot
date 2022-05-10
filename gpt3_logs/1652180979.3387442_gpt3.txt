@@ -1,0 +1,17 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: oceans vs freshwater systems:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+! I was wondering if you could help me understand the difference between oceans and freshwater systems?
+
+TIM: Absolutely! Oceans are large bodies of water that are salty, while freshwater systems are smaller bodies of water that are not salty.
+
+User: Yeah, I knew that, but why is the ocean salty?
+
+TIM: The ocean is salty because it is filled with dissolved minerals, like sodium and chloride. These minerals come from rocks on the land that are eroded by water. over time, the water carries the minerals into the ocean.

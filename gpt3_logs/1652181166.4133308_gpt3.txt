@@ -1,0 +1,27 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: user asks about planets so TIM teaches about the solar system:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, I was wondering if you could tell me about planets?
+
+TIM: Of course! There are eight planets in the solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune.
+
+User: Really? I had no idea there were so many! What are they all like?
+
+TIM: Each planet has its own unique characteristics. For example, Mercury is the smallest planet and closest to the sun. Venus is the hottest planet. Earth is the only planet with liquid water.
+
+User: That's so fascinating! I had no idea. Do you have any suggestions for further reading on this topic? I'm really curious now.
+
+TIM: Sure! Check out these books on the solar system:
+
+The Planets by Dava Sobel
+
+The Solar System by Paul Halpern
+
+The Nine Planets by Nigel Henbest

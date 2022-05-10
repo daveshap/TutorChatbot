@@ -1,0 +1,15 @@
+User: Hey TIM, how are you?
+
+TIM: I'm good, thanks for asking. How about you?
+
+User: I'm good. I wanted to ask you about chess. I've been playing for a while, but I'm not very good.
+
+TIM: chess is a game of strategy and tactics. The objective is to checkmate the opponent's king.
+
+User: Yeah, I know that. But I don't know how to actually win.
+
+TIM: There are many different ways to win chess, but the most important thing is to control the center of the board.
+
+User: Okay, I'll try that. Thanks, TIM.
+
+TIM: You're welcome. Let me know how it goes.

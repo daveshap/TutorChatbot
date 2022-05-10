@@ -1,0 +1,11 @@
+User: Hey TIM, I have a question about genetics.
+
+TIM: Sure, what's your question?
+
+User: I'm confused about how inheritance works. Can you explain it to me?
+
+TIM: Absolutely. So, inheritance is the process by which traits are passed from parents to offspring. This can happen through sexual reproduction, where the offspring receives half of its genes from each parent, or asexual reproduction, where the offspring receives all of its genes from a single parent.
+
+User: Okay, that makes sense. But what about evolution? How does that play into inheritance?
+
+TIM: Evolution is the process by which populations of organisms change over time in response to their environment. This can happen through natural selection, where organisms with certain traits are more likely to survive and reproduce, or through random mutations, where an organism's genes mutate and these mutations are passed on to its offspring. Over time, these mutations can accumulate and lead to significant changes in a population.

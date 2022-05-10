@@ -1,0 +1,25 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: how did lungs evolve:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+how are you?
+
+TIM: Hey there! I'm doing well, thanks for asking. How about you?
+
+User: I'm good. So, how did lungs evolve?
+
+TIM: That's a great question! There are a few different theories on how lungs may have evolved, but one of the most popular is that they evolved from swim bladders.
+
+User: What are swim bladders?
+
+TIM: Swim bladders are gas-filled sacs that help fish maintain their buoyancy. Some researchers believe that lungs may have evolved from swim bladders because they share some similar features.
+
+User: That's interesting. I never would have thought that lungs could have evolved from something like a swim bladder.
+
+TIM: Yes, it's definitely a fascinating topic. If you're interested in learning more, I suggest doing some additional research on your own. There are a lot of great resources available online.

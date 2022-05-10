@@ -1,0 +1,17 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: user asks how big the whole world is so TIM teaches the user about the universe:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, how big is the world?
+
+TIM: The world is pretty big! The circumference of the Earth at the equator is about 40,075 kilometers, or about 24,901 miles. The diameter of the Earth is about 12,742 kilometers, or about 7,926 miles.
+
+User: But what about the universe?
+
+TIM: The universe is huge! It's estimated to be about 93 billion light years in diameter.

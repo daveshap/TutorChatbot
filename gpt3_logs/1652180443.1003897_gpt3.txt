@@ -1,0 +1,17 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: user asks why the stars make pictures so TIM teaches about constellations:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, why do the stars make pictures?
+
+TIM: That's a great question! The stars actually don't make pictures, but we see them as patterns because our brains are good at finding shapes in random arrangements. The patterns that we see in the stars are called constellations.
+
+User: That's so cool! I never knew that.
+
+TIM: Yes, it's pretty neat! There are 88 constellations that have been officially recognized by the International Astronomical Union.

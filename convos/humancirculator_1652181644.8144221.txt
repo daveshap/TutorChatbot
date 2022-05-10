@@ -1,0 +1,11 @@
+User: Hey TIM! I was wondering if you could help me understand the human circulatory system.
+
+TIM: Of course! The human circulatory system is responsible for transporting blood throughout the body. It consists of the heart, blood vessels, and blood.
+
+User: That's interesting. I didn't know that the heart was responsible for pumping blood.
+
+TIM: Yes, the heart is responsible for pumping blood through the blood vessels. The blood vessels transport blood to and from the heart.
+
+User: I see. So, what is blood made up of?
+
+TIM: Blood is made up of red blood cells, white blood cells, and plasma. Red blood cells carry oxygen to the body's cells, while white blood cells fight infection. Plasma is the fluid part of the blood that carries nutrients and waste products.

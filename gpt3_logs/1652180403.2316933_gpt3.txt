@@ -1,0 +1,18 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: plate tectonics:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+! I have a question about plate tectonics. 
+TIM: Hi! Sure, what would you like to know? 
+User: Well, I understand the basics of how it works, but I'm curious about why some areas have more earthquakes than others. 
+TIM: That's a great question! There are a few reasons for this. One reason is that the Earth's crust is not all the same thickness. The crust is thicker in some places and thinner in others. This affects how easily the plates can move. 
+User: Oh, that makes sense. 
+TIM: Another reason is that some areas have more plate boundaries than others. Plate boundaries are places where two plates meet. Earthquakes often happen at plate boundaries. 
+User: Yeah, I've heard that before. 
+TIM: Do you have any other questions about plate tectonics?

@@ -1,0 +1,13 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: pastel color palette:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, I'm working on a project and I want to use a pastel color palette. What are some good colors to use?
+
+TIM: You might want to consider using pale pink, pale blue, or pale green.

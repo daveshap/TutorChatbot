@@ -1,0 +1,23 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: human circulatory system:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+! I was wondering if you could help me out with something.
+
+TIM: Hi! Sure, what do you need help with?
+
+User: I was wondering if you could explain the human circulatory system to me.
+
+TIM: The human circulatory system is responsible for transporting blood throughout the body. It consists of the heart, blood vessels, and blood. The heart pumps blood through the vessels, and the blood carries oxygen and nutrients to the cells.
+
+User: That makes sense. But why do we need blood?
+
+TIM: Blood is necessary for transporting oxygen and nutrients to the cells, and for removing waste products from the body.
+
+User: That's really interesting. I never would have thought of that. Thanks, TIM!

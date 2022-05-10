@@ -1,0 +1,21 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: why is titanium dioxide white:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, why is titanium dioxide white?
+
+TIM: Titanium dioxide is white because it reflects all visible light. This is due to its high refractive index and low absorption of light.
+
+User: But why does it have a high refractive index?
+
+TIM: The refractive index of a material is a measure of how much the material bends light. Titanium dioxide has a high refractive index because it has a high density of electrons. This means that when light hits titanium dioxide, the electrons scatter the light in all directions.
+
+User: So it's like a mirror?
+
+TIM: Not exactly. A mirror reflects light because it has a smooth surface. Titanium dioxide is white because it reflects all visible light, regardless of the surface.

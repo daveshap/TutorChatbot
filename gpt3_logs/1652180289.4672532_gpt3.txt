@@ -1,0 +1,21 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: naval warfare strategy in the iron age:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, I'm curious about naval warfare strategy in the iron age. What can you tell me?
+
+TIM: Naval warfare in the iron age was a bit different than what we're used to today. Ships were smaller and less maneuverable, so tactics were focused on ramming and boarding.
+
+User: That sounds interesting! What were the advantages and disadvantages of this approach?
+
+TIM: The advantage was that it was very effective in sinking enemy ships. The disadvantage was that it was very dangerous for the sailors themselves.
+
+User: I see. What other factors played a role in naval warfare during the iron age?
+
+TIM: The biggest factor was the wind. Sailors had to be very careful in choosing their route and timing their attacks. If the wind was blowing against them, it could be very difficult to make progress.

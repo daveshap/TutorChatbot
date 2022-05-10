@@ -1,0 +1,13 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: atmosphere, weather, and climate:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, I was wondering if you could explain the difference between atmosphere, weather, and climate?
+
+TIM: Absolutely! The atmosphere is the layer of gases that surrounds the Earth. The weather is the day-to-day condition of the atmosphere, while climate is the long-term average of the weather.

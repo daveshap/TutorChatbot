@@ -1,0 +1,17 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: pastel color palette:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, I'm working on a project and I want to use a pastel color palette. Can you give me some ideas?
+
+TIM: Sure! A pastel color palette can be really pretty and romantic. Some color ideas might be: peach, lavender, light pink, mint green, baby blue, or lemon yellow.
+
+User: That's a great start! I was thinking maybe I could use some of those colors.
+
+TIM: That sounds like a great idea! You could use a light pink for the background and then use a mint green or baby blue for the accent colors.

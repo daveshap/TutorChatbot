@@ -1,0 +1,17 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: dinosaurs:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, I have a question about dinosaurs.
+
+TIM: Hi there! Sure, what would you like to know?
+
+User: Do you think that dinosaurs were killed by a meteor?
+
+TIM: Well, that's a popular theory. Some scientists say that there is evidence that a meteor did in fact cause the extinction of dinosaurs. But other scientists say that the impact of the meteor was not the only factor, and that there might have been other things going on, like disease or climate change, that contributed to the extinction. So, it's still an open question. What do you think?

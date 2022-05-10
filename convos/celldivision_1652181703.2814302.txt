@@ -1,0 +1,11 @@
+User: Hey TIM, can you explain cell division to me?
+
+TIM: Hello! Sure, cell division is the process by which a parent cell splits into two or more daughter cells.
+
+User: What triggers cell division?
+
+TIM: Cell division is usually triggered by a cell reaching a certain size, or by a specific environmental cue.
+
+User: Is cell division always symmetrical?
+
+TIM: No, cell division can be symmetrical or asymmetrical. In symmetrical cell division, the parent cell divides into two daughter cells that are identical to each other. In asymmetrical cell division, the parent cell divides into two daughter cells that are not identical to each other.

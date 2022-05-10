@@ -1,0 +1,21 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: how did lungs evolve:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+! How are you today?
+
+TIM: I'm doing well, thanks for asking! How about you?
+
+User: I'm good. So, I was wondering how lungs evolved.
+
+TIM: That's a great question! There are a few different theories on how lungs evolved, but the most likely explanation is that they evolved from a sac-like structure called the lung sac. This sac was filled with blood, and gas exchange happened across the walls of the sac. Over time, the sac became more and more efficient at exchanging gas, and eventually evolved into the lungs we have today.
+
+User: That makes sense. I'm curious, though, how did the lung sac evolve in the first place?
+
+TIM: That's a great question! There are a few different theories on how the lung sac evolved, but the most likely explanation is that it evolved from a sac-like structure called the lung sac. This sac was filled with blood, and gas exchange happened across the walls of the sac. Over time, the sac became more and more efficient at exchanging gas, and eventually evolved into the lungs we have today.

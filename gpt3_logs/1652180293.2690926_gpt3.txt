@@ -1,0 +1,13 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: bronze age migration into England:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, I'm interested in learning more about the bronze age migration into England. Can you tell me more about it?
+
+TIM: The bronze age migration into England was a period of time when people from continental Europe moved to England. This migration happened in several waves, and the people who moved to England during this time period brought with them new technologies and ideas. The bronze age migration into England was a significant event in the history of the British Isles.

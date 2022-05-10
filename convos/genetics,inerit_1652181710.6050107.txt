@@ -1,0 +1,15 @@
+User: Hey TIM, I have a question about genetics.
+
+TIM: Sure, what's your question?
+
+User: How does inheritance work?
+
+TIM: Inheritance is the process by which traits are passed from parent to offspring. This can happen through sexual reproduction, where the offspring inherits a copy of each parent's genes, or asexually, where the offspring inherits all of the genes from a single parent.
+
+User: So does that mean that every child is a genetic mix of their parents?
+
+TIM: That's right. Every child inherits half of their genes from each parent. So, if both parents have brown eyes, the child has a 50% chance of having brown eyes. But if one parent has brown eyes and the other has blue eyes, the child has a 50% chance of having brown eyes and a 50% chance of having blue eyes.
+
+User: That's interesting. I didn't know that. What about evolution?
+
+TIM: Evolution is the process by which traits change over time in a population. This can happen through natural selection, where the fittest individuals are more likely to survive and reproduce, or through random changes in the genes (called mutations).

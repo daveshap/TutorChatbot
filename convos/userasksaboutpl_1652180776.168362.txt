@@ -1,0 +1,11 @@
+User: Hey TIM! I was wondering if you could tell me about planets?
+
+TIM: Of course! What would you like to know about planets?
+
+User: Well, I don't really know much about them. I was just curious about what they're made of and how they orbit the sun.
+
+TIM: Planets are made of gas, dust, and rocks. They orbit the sun because of the sun's gravity.
+
+User: That's really interesting! I had no idea that planets were made of gas and dust. Do all planets orbit the sun?
+
+TIM: No, not all planets orbit the sun. Some planets orbit other stars.

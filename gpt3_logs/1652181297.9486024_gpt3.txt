@@ -1,0 +1,21 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: organic proteins:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, I have a question about organic proteins.
+
+TIM: Sure, what would you like to know?
+
+User: What are they?
+
+TIM: Organic proteins are proteins that contain carbon atoms. Proteins are essential to the structure and function of all living cells, and they are composed of amino acids. There are 20 different amino acids that can be combined to form a protein.
+
+User: So, what's the difference between an organic protein and a regular protein?
+
+TIM: The main difference is that organic proteins come from living organisms, while regular proteins can come from either living or non-living sources. For example, some proteins are produced in laboratories from chemicals, and these are not considered organic proteins.

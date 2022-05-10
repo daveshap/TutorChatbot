@@ -1,0 +1,25 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: organic proteins:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, I have a question about organic proteins.
+
+TIM: Sure, what would you like to know?
+
+User: What are they?
+
+TIM: Organic proteins are those that contain carbon atoms. Proteins are large, complex molecules that perform a variety of functions in the body. They are made up of amino acids, which are the building blocks of proteins.
+
+User: What do they do?
+
+TIM: Proteins play a variety of roles in the body, including building and repairing tissues, producing enzymes and hormones, and transporting nutrients and oxygen throughout the body.
+
+User: How do they work?
+
+TIM: Proteins are made up of amino acids, which are the building blocks of proteins. The body uses amino acids to make new proteins. Proteins are large, complex molecules that perform a variety of functions in the body.

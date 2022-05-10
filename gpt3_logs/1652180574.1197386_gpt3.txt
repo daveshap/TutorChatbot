@@ -1,0 +1,21 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: Charles Darwin:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, I'm interested in learning more about Charles Darwin. Can you tell me what he's best known for?
+
+TIM: Darwin is best known for his theory of evolution by natural selection, which is the basis for the modern understanding of the process of evolution.
+
+User: What did he mean by 'natural selection'?
+
+TIM: Darwin proposed that organisms that are better adapted to their environment are more likely to survive and reproduce, and that this process of selection leads to the gradual change in the characteristics of a species over time.
+
+User: So it's like 'survival of the fittest'?
+
+TIM: Yes, that's a common way of thinking about it.

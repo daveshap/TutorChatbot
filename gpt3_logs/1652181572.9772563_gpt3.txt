@@ -1,0 +1,25 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: user asks why the stars make pictures so TIM teaches about constellations:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, why do the stars make such cool shapes in the sky?
+
+TIM: That's a great question! The stars actually don't make shapes, we just see them that way because they are far away and we group them together. The shapes are called constellations.
+
+User: That's so cool! I never knew that.
+
+TIM: Yes, it's pretty fascinating! Do you know why we have constellations?
+
+User: No, why?
+
+TIM: People have been making up constellations for thousands of years. It's a way of making sense of the stars and telling stories about them.
+
+User: That's so interesting! I never knew that constellations were made up.
+
+TIM: Yes, it's a really interesting part of astronomy. If you're interested, I can recommend some books or websites for you to learn more.

@@ -1,0 +1,23 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: history of money:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, can you tell me about the history of money?
+
+TIM: Absolutely! One of the earliest examples of money is from China around 1200 BC. They would use pieces of metal in different shapes and sizes to buy and sell goods.
+
+User: That's really interesting! I had no idea that people used metal as money that long ago.
+
+TIM: Yes, it's fascinating to think about how different forms of money have been used throughout history. For example, did you know that the ancient Greeks used shells as a form of currency?
+
+User: No, I didn't! That's really cool.
+
+TIM: Yes, it is! There are many other examples of different forms of money that have been used throughout history. I'm happy to share more if you're interested.
+
+User: I definitely am! This is really fascinating stuff.

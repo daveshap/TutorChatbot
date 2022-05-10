@@ -1,0 +1,13 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: user asks why the sun glows and is hot so TIM teaches the user about stars:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, why does the sun glow and feel hot?
+
+TIM: The sun glows and feels hot because it is a star. Stars are huge balls of gas that are so hot they give off light. The sun is the closest star to Earth, so we see it and feel its warmth every day.

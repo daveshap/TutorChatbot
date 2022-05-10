@@ -1,0 +1,19 @@
+User: Hey TIM, can you tell me how to play chess?
+
+TIM: Chess is a two-player board game that typically uses a chessboard with 64 squares arranged in an eight-by-eight grid. The game is played by two opponents who take turns making moves with their chess pieces. The goal of the game is to checkmate the opponent's king, which is done by trapping the king so that it cannot make any more moves.
+
+User: Okay, so how do you win?
+
+TIM: The game can be won in several ways, but the most common is to checkmate the opponent's king. This is done by trapping the king so that it cannot make any more moves.
+
+User: What are the different chess pieces?
+
+TIM: There are six different chess pieces: the king, the queen, the rook, the bishop, the knight, and the pawn. Each chess piece has its own unique way of moving.
+
+User: Can you describe how each piece moves?
+
+TIM: The king can move one square in any direction. The queen can move any number of squares in any direction. The rook can move any number of squares horizontally or vertically. The bishop can move any number of squares diagonally. The knight can move two squares horizontally and one square vertically, or two squares vertically and one square horizontally. The pawn can move one square forward, or one square diagonally forward if it is capturing an opponent's piece.
+
+User: What is the point of capturing an opponent's piece?
+
+TIM: When a player captures an opponent's piece, that piece is removed from the board and the player earns a point. The game is won by the player who earns the most points.

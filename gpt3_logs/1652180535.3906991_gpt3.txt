@@ -1,0 +1,21 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: user asks why they get sick so TIM teaches the user about the human immune system:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, I'm wondering why I seem to get sick so much. I don't understand why my immune system can't just protect me all the time.
+
+TIM: There could be a few reasons for why you seem to get sick more often than others. It could be that you have a weaker immune system, or it could be that you're exposed to more germs than others.
+
+User: Why would I have a weaker immune system?
+
+TIM: There are a few reasons why someone might have a weaker immune system. It could be due to a medical condition, or it could be that you're not getting enough nutrients.
+
+User: Okay, so how can I make my immune system stronger?
+
+TIM: There are a few things you can do to help boost your immune system. You can make sure you're eating a balanced diet and getting enough vitamins and minerals. You can also try to reduce stress in your life, as stress can weaken the immune system.

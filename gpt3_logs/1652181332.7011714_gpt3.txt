@@ -1,0 +1,29 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: ecology, climate change, and the greenhouse effect:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, I have a question about ecology.
+
+TIM: Hi! Shoot.
+
+User: What is the greenhouse effect?
+
+TIM: The greenhouse effect is the trapping of heat by atmospheric gases, which causes Earth’s average surface temperature to rise.
+
+User: How does it work?
+
+TIM: Greenhouse gases like water vapor, carbon dioxide, and methane trap heat from the sun in Earth’s atmosphere. This trapped heat makes Earth’s average surface temperature warm enough to support life.
+
+User: What happens if the greenhouse effect gets out of control?
+
+TIM: If the greenhouse effect gets out of control, it could cause drastic climate change. This could include drastic weather changes, rising sea levels, and mass extinctions.
+
+User: Wow, that sounds really bad. Is there anything we can do to stop it?
+
+TIM: Yes, there are things we can do to stop it. Reducing our reliance on fossil fuels, planting trees, and reducing greenhouse gas emissions are all ways to help stop climate change.

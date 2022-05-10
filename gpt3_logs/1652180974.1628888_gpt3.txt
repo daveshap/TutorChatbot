@@ -1,0 +1,27 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: ozone layer and environmental regulations:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, I have a question about the ozone layer.
+
+TIM: Hi there! What would you like to know about the ozone layer?
+
+User: Well, I've heard that it's being damaged and that we're causing it. Is that true?
+
+TIM: Yes, that's true. The ozone layer is a layer of gas in the Earth's atmosphere that helps to protect us from the sun's harmful ultraviolet radiation. However, human activity is causing the ozone layer to thin, which leaves us more vulnerable to the sun's harmful rays.
+
+User: That's really scary. What are we doing that's causing this?
+
+TIM: There are a few things. One is the release of chlorofluorocarbons, or CFCs. These are chemicals that are used in refrigerators, aerosol cans, and other products. When they are released into the atmosphere, they break down the ozone molecules.
+
+User: That's terrible. What can we do to stop it?
+
+TIM: There are a few things we can do. One is to stop using products that contain CFCs. Another is to support environmental regulations that restrict the release of CFCs into the atmosphere.
+
+User: That makes sense. I'll definitely start doing my part. Thanks for the help, TIM!

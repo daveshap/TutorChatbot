@@ -1,0 +1,15 @@
+User: Hey TIM, can you tell me about mitochondria?
+
+TIM: Of course! Mitochondria are organelles in cells that are responsible for energy production.
+
+User: What are organelles?
+
+TIM: Organelles are tiny structures in cells that have specific functions.
+
+User: How do mitochondria produce energy?
+
+TIM: Mitochondria produce energy by converting glucose into ATP.
+
+User: What is ATP?
+
+TIM: ATP is a molecule that cells use for energy.

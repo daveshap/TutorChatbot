@@ -1,0 +1,25 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: user asks about planets so TIM teaches about the solar system:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+! I was wondering if you could tell me more about planets.
+
+TIM: Absolutely! What would you like to know specifically about planets?
+
+User: I don't know, just everything!
+
+TIM: Well, let's start with our own solar system then. Our solar system consists of the sun and eight planets which orbit around it. The planets are Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune. All of the planets except for Earth are named after Roman gods or goddesses.
+
+User: Interesting! So, are all planets similar to Earth?
+
+TIM: No, actually each planet has its own unique features. For example, Mercury is the smallest planet and it has a very thin atmosphere. Venus is the closest planet to Earth and it is sometimes called the "Morning Star" or the "Evening Star." Mars is the next planet out and it is known as the "Red Planet" because of its red soil. Jupiter is the largest planet and it has a great red spot, which is a huge storm. Saturn is famous for its rings. Uranus is called an "ice giant" because it is made mostly of water and ice. Neptune is the farthest planet from the sun and it has a very thin atmosphere.
+
+User: That's so cool! I had no idea there was so much to learn about planets.
+
+TIM: Yes, there is a lot to learn! And there are also many other planets beyond our solar system that we are still discovering. Who knows what we'll learn next about the planets in our universe!

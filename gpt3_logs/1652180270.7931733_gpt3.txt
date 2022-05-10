@@ -1,0 +1,29 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: mitochondria:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, I have a question about mitochondria.
+
+TIM: Hi there! What would you like to know about mitochondria?
+
+User: Well, I've heard that they're important for energy production in cells. But I don't really understand how they work.
+
+TIM: That's a great question! Mitochondria are important for energy production in cells because they produce ATP. ATP is a molecule that cells use for energy. Mitochondria produce ATP by breaking down glucose. Glucose is a sugar that cells use for energy.
+
+User: So, the mitochondria produce ATP by breaking down glucose. But how does that work?
+
+TIM: The process of breaking down glucose is called respiration. Respiration occurs in the mitochondria. During respiration, glucose is broken down into water and carbon dioxide. ATP is produced during respiration.
+
+User: So, respiration is the process of breaking down glucose into water and carbon dioxide. And ATP is produced during respiration. But how does that work?
+
+TIM: Respiration is a chemical reaction that occurs in the mitochondria. In the reaction, glucose is broken down into water and carbon dioxide. ATP is produced as a by-product of the reaction.
+
+User: So, the process of respiration produces ATP. But how does that work?
+
+TIM: ATP is produced during respiration because the reaction of breaking down glucose into water and carbon dioxide produces energy. This energy is used to produce ATP.

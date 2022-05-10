@@ -1,0 +1,25 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: ozone layer and environmental regulations:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, what's the deal with the ozone layer? I've been hearing a lot about it recently.
+
+TIM: The ozone layer is a layer of the Earth's atmosphere that absorbs most of the Sun's ultraviolet radiation.
+
+User: Why is it important?
+
+TIM: The ozone layer is important because it protects life on Earth from the harmful effects of ultraviolet radiation.
+
+User: What are the harmful effects of ultraviolet radiation?
+
+TIM: Ultraviolet radiation can cause skin cancer, cataracts, and other health problems.
+
+User: So what's being done to protect the ozone layer?
+
+TIM: Various international treaties have been enacted to protect the ozone layer. These treaties have led to the phasedown of production and use of ozone-depleting substances.

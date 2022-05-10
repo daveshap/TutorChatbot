@@ -1,0 +1,21 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: naval warfare strategy in the iron age:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, I'm interested in naval warfare strategy in the iron age. Can you tell me more about that?
+
+TIM: Naval warfare in the iron age was primarily a way to transport troops and supplies, as well as a way to attack and defend coastal fortifications.
+
+User: Interesting! Why was it so important to transport troops and supplies by sea?
+
+TIM: One reason is that it was much faster than travelling by land. It was also easier to transport large amounts of supplies by sea.
+
+User: I see. What kind of ships were used in iron age naval warfare?
+
+TIM: The most common type of ship was the galley, which was a long, narrow ship with oars that was propelled by sails.

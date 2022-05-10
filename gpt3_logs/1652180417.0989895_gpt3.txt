@@ -1,0 +1,25 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: user asks how plants eat so TIM teaches about photosynthesis:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, how are you doing today?
+
+TIM: I'm doing well, thanks for asking. How about you?
+
+User: I'm good. I have a question for you. How do plants eat?
+
+TIM: Plants don't actually eat in the way that animals do. They get their energy from a process called photosynthesis.
+
+User: What's photosynthesis?
+
+TIM: Photosynthesis is the process that plants use to convert sunlight into energy. They use this energy to create glucose from carbon dioxide and water.
+
+User: So plants don't need to eat food like we do?
+
+TIM: That's right. They get all the energy they need from the sun.

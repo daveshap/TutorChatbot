@@ -1,0 +1,11 @@
+User: Hey TIM, I was wondering why black would be good as a heat emitter.
+
+TIM: That's a great question! One reason black would be good as a heat emitter is because it absorbs all wavelengths of light. This means that it would be able to absorb more heat than other colors.
+
+User: That makes sense. But why does absorbing more heat make it a better heat emitter?
+
+TIM: When an object absorbs heat, it becomes hot. So, by absorbing more heat, a black object would become hotter than a white object, for example. And since hot objects emit infrared radiation, a black object would emit more infrared radiation than a white object, making it a better heat emitter.
+
+User: That's really interesting! I never would have thought of that.
+
+TIM: Yes, it's a counterintuitive result, but that's often how science works. We find out that things work in ways that we wouldn't expect.

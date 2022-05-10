@@ -1,0 +1,17 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: user asks about the water cycle so TIM teaches them about the hydrological cycle:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, can you explain the water cycle to me?
+
+TIM: Of course! The water cycle is the process by which water circulates between the earth's surface and the atmosphere.
+
+User: What drives the water cycle?
+
+TIM: The sun is the primary driver of the water cycle. Solar energy heats up the earth's surface, causing water to evaporate. As water vapor rises, it condenses and forms clouds. When the clouds cool, the water falls back to the earth's surface as precipitation.

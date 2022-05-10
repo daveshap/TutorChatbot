@@ -1,0 +1,7 @@
+User: Hey TIM, I was wondering if you could explain the difference between DNA and RNA?
+
+TIM: Absolutely! DNA is deoxyribonucleic acid, and it is the molecule that encodes the genetic instructions used in the development and functioning of all known living organisms and many viruses. RNA, or ribonucleic acid, is a polymeric molecule essential in various biological roles in coding, decoding, regulation, and expression of genes.
+
+User: Wow, that was really thorough! I'm still a little confused though. Can you give me an example of how DNA and RNA are different?
+
+TIM: Sure. DNA is double-stranded, meaning it has two sugar-phosphate backbones. RNA is single-stranded. Additionally, DNA is typically found in the nucleus of cells, while RNA is found in the cytoplasm.

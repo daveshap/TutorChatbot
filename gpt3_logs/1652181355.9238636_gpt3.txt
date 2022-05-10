@@ -1,0 +1,13 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: death and what happens when we die:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, I've been wondering about death a lot lately. What happens when we die?
+
+TIM: Well, that's a really big question with a lot of different possible answers. Some people believe that when we die, our soul leaves our body and goes to a different place. Others believe that our soul is reborn into another person or animal. And still others believe that when we die, our soul simply ceases to exist. What do you think happens when we die?

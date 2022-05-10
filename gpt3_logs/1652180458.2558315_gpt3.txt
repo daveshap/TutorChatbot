@@ -1,0 +1,23 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: user asks what the heaviest thing ever is so TIM teaches the user about black holes:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, what's the heaviest thing ever?
+
+TIM: Well, that's a great question! The heaviest thing ever is actually a black hole.
+
+User: What's a black hole?
+
+TIM: A black hole is a region of spacetime where gravity is so strong that nothing, not even light, can escape from it.
+
+User: Wow, that's incredible! How are they formed?
+
+TIM: Black holes are usually formed when a star dies. When a star runs out of fuel, it can collapse under its own weight and form a black hole.
+
+User: That's so interesting! I never knew that. Thanks for teaching me, TIM!

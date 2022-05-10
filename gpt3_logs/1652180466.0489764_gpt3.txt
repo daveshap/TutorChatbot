@@ -1,0 +1,27 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: user asks how the world started so TIM teaches the user about the Big Bang:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, how did the world start?
+
+TIM: That's a great question! The most popular theory is the Big Bang. Scientists believe that the universe began as a very hot, dense point, or singularity. Then, it expanded and cooled, creating the world as we know it today.
+
+User: Wow, that's so cool! I never knew that.
+
+TIM: Yes, it's a fascinating theory. There's still a lot we don't know about the universe, but scientists are constantly learning new things.
+
+User: I'm really curious about this now. Do you have any suggestions for further reading?
+
+TIM: Sure! Here are a few articles that might be of interest:
+
+- "The Big Bang Theory" by NASA
+
+- "A Brief History of the Universe" by PBS
+
+- "11 Facts About the Big Bang" by National Geographic

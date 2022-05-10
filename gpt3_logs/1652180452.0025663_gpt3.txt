@@ -1,0 +1,17 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: user asks how big the whole world is so TIM teaches the user about the universe:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+! How big is the world?
+
+TIM: The world is huge! It's so big that we can't even comprehend its size. The universe is even bigger!
+
+User: Wow, I had no idea. How big is the universe?
+
+TIM: The universe is unimaginably big. It's so big that our minds can't even comprehend its size.

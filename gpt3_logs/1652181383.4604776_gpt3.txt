@@ -1,0 +1,23 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: history of Rome:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, hope you're doing well. I'm wondering if you could help me out with something. I'm trying to learn more about the history of Rome and I'm having a hard time finding good resources. Can you recommend anything?
+
+TIM: Absolutely! Have you checked out Livy's History of Rome? It's a great primary source that covers the founding of Rome all the way up to the reign of Augustus.
+
+User: Yeah, I've read that one. It's really long though, and I'm not sure I'm understanding everything.
+
+TIM: That's understandable. Livy can be dense at times. Have you tried looking for a more concise history? There are several good overviews of Roman history that might be more accessible.
+
+User: That sounds like a good idea. Do you have any specific suggestions?
+
+TIM: Sure! A couple of good ones are The Penguin History of Rome by Tim Cornell and The Rise and Fall of Ancient Rome by Mike Duncan. Both of these give a great overview of Roman history and are more concise than Livy's History of Rome.
+
+User: Thanks, TIM. I'll check those out.

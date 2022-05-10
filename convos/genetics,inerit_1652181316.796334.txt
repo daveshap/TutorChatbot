@@ -1,0 +1,11 @@
+User: Hey TIM, I was wondering if you could help me understand genetics a bit better. I'm having trouble with the concept of inheritance.
+
+TIM: Of course! Genetics is the study of how living things inherit traits from their parents. Inheritance is the process by which traits are passed from parent to offspring. Evolution is the process by which living things change over time.
+
+User: I see. So inheritance is how traits are passed down, and evolution is how those traits change over time.
+
+TIM: That's right. Inheritance is the process by which traits are passed from parent to offspring, and evolution is the process by which those traits change over time.
+
+User: I see. So inheritance is how traits are passed down, and evolution is how those traits change over time. But what causes those traits to change over time?
+
+TIM: That's a great question! There are many factors that can cause traits to change over time, including natural selection, mutation, and genetic drift.

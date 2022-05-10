@@ -1,0 +1,7 @@
+User: Hey TIM, I was wondering if you could help me understand organic proteins a bit better.
+
+TIM: Absolutely! Proteins are large biomolecules, or macromolecules, consisting of one or more long chains of amino acid residues. Proteins perform a vast array of functions within organisms, including catalysing metabolic reactions, DNA replication, responding to stimuli, and transporting molecules from one location to another.
+
+User: That makes sense. But what are organic proteins specifically?
+
+TIM: Organic proteins are those that contain carbon. Proteins are made up of amino acids, which are themselves organic molecules that contain carbon.

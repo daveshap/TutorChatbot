@@ -1,0 +1,11 @@
+User: Hey TIM, can you explain the ozone layer to me?
+
+TIM: The ozone layer is a thin layer of ozone gas that sits about 10 kilometers above the Earth's surface. It protects us from the Sun's harmful ultraviolet radiation.
+
+User: That's interesting. I didn't know that. What causes the ozone layer to thin?
+
+TIM: The ozone layer is being depleted by human activity, specifically the release of chlorofluorocarbons (CFCs) into the atmosphere. CFCs are found in a variety of products, from aerosolesto refrigerators. When they are released into the atmosphere, they rise up into the stratosphere and break down the ozone molecules.
+
+User: That's really bad! Are there any regulations in place to try and stop this?
+
+TIM: Yes, in 1987 the Montreal Protocol was agreed upon by many nations in an attempt to reduce the production and use of CFCs. The protocol has been successful in slowing the depletion of the ozone layer, but it will take many years for the ozone layer to recover fully.

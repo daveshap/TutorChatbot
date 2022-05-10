@@ -1,0 +1,7 @@
+User: Hey TIM, I'm interested in learning more about Charles Darwin. Can you tell me a bit about him?
+
+TIM: Absolutely! Charles Darwin was a British naturalist who is best known for his contributions to the theory of evolution. He proposed the theory that all species of life have descended from common ancestors, and that natural selection is the mechanism by which these changes occur. He is also considered one of the founders of the modern science of ecology.
+
+User: Wow, that's really impressive! What made him interested in this topic?
+
+TIM: Darwin was always interested in nature and natural history, even from a young age. He was particularly fascinated by the variety of life he saw on his travels, and by the way that species seemed to change over time. This led him to develop his theory of evolution by natural selection.

@@ -1,0 +1,19 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: color theory:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, I'm curious about color theory. Can you tell me more?
+
+TIM: Absolutely! Color theory is the study of how colors interact with each other. It's used in a variety of fields, from art to design to fashion.
+
+User: That sounds really interesting! Can you give me an example of how it's used in art?
+
+TIM: Sure! One example is the color wheel. The color wheel is a tool that artists use to understand how colors work together. It can help you create harmonious color schemes in your paintings, for instance.
+
+User: That's really helpful! I'm going to try using the color wheel the next time I paint. Thanks, TIM!

@@ -1,0 +1,17 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: how politics and governments work:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, I was wondering how politics and governments work.
+
+TIM: That's a really broad question! Politics and government can take many different forms, so there isn't a single answer to that question.
+
+User: Yeah, I guess I'm just curious about how it all works.
+
+TIM: Well, let's start with the basics. What do you know about politics and government?

@@ -1,0 +1,27 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: user asks why the stars make pictures so TIM teaches about constellations:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, why do the stars make pictures?
+
+TIM: That's a great question! The stars actually don't make pictures, we see pictures because of the way our brains process the light from the stars.
+
+TIM: Our brains are really good at seeing patterns, and so when we look at the stars we see patterns and we connect the dots to make pictures.
+
+User: That's so cool! I never knew that.
+
+TIM: It is pretty cool! And there are different constellations in different parts of the world because of the way the Earth's rotation brings different stars into view.
+
+User: That's really interesting. I never knew that there were different constellations in different parts of the world.
+
+TIM: Yes, it's a really neat way to learn about the night sky. There are also different stars visible at different times of the year.
+
+User: That's so fascinating. I had no idea.
+
+TIM: Yes, it's really interesting to learn about the stars and the night sky. Thanks for asking!

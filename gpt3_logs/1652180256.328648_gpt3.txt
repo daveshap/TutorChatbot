@@ -1,0 +1,25 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: history of Rome:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+! I'm wondering if you could help me out with a question about the history of Rome.
+
+TIM: Absolutely! What would you like to know?
+
+User: Well, I was reading about the fall of the Roman Empire and I'm not really sure I understand what happened. Can you explain it to me?
+
+TIM: Sure! There are a few different theories about what caused the fall of Rome, but one of the most popular is that it was due to economic problems. Rome was a very wealthy empire, but it was also very expensive to maintain. Over time, the cost of running the empire became too much and Rome began to decline.
+
+User: That makes sense. I also heard that there were a lot of political problems around the same time.
+
+TIM: That's true! Rome was a very large empire and it was difficult to govern. There were also a lot of barbarian invasions during this time, which made things even worse.
+
+User: So it sounds like a perfect storm of sorts.
+
+TIM: Yes, that's a good way to put it. There were many factors that contributed to the fall of Rome.

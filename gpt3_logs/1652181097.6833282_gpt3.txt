@@ -1,0 +1,17 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: lizards:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, I'm curious about lizards. What do you know about them?
+
+TIM: Lizards are a type of reptile that can be found all over the world. They come in a variety of shapes and sizes, and some can even change color!
+
+User: That's so cool! I didn't know that they could change color. What causes that?
+
+TIM: That's a great question! Some lizards change color to help them blend in with their surroundings, while others do it to communicate with other lizards.

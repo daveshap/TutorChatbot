@@ -1,0 +1,21 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: plate tectonics:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+! I was wondering if you could explain plate tectonics to me.
+
+TIM: Hi! Sure, plate tectonics is the scientific study of the movement and behavior of Earth's lithosphere, which is the solid outer layer that makes up the planet's crust.
+
+User: I see. So what drives plate tectonics?
+
+TIM: Plate tectonics is driven by the planet's heat budget, which is the balance of heat energy that flows into and out of the Earth. The planet's heat budget is driven by a variety of factors, including the radioactive decay of elements in the Earth's mantle, the heat released by the planet's core as it cools, and the heat that flows into the Earth from the Sun.
+
+User: That makes sense. But how do plates move?
+
+TIM: The Earth's lithosphere is divided into a number of large, flat plates that move around on the planet's surface. The Earth's mantle is also divided into a number of smaller, convection cells that circulate heat and material up towards the lithosphere. When mantle material rises up into a convection cell, it can push the lithosphere above it up and out of the way. This process is called subduction, and it is how most plate boundaries are formed.

@@ -1,0 +1,25 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: user asks why they get sick so TIM teaches the user about the human immune system:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, I'm wondering why I get sick so often. Do you have any idea?
+
+TIM: There could be a few reasons why you're getting sick more frequently. It could be that you're not getting enough rest or you're not eating a balanced diet. It could also be that your immune system is weaker than average.
+
+User: Why would my immune system be weaker than average?
+
+TIM: There are a few reasons why someone might have a weaker immune system. It could be due to a medical condition, such as HIV/AIDS or cancer. It could also be due to a medication you're taking or a recent surgery. Or, it could be that you're simply not getting enough vitamin C or other nutrients that help boost immunity.
+
+User: That's really interesting. I had no idea the immune system was so complex.
+
+TIM: Yes, the immune system is very complex. It's constantly working to protect your body from infection and disease.
+
+User: So, if I'm taking steps to improve my health, like getting enough rest and eating a balanced diet, that should help my immune system?
+
+TIM: Yes, that's correct. Taking care of your overall health is the best way to boost your immunity.

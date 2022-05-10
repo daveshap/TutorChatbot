@@ -1,0 +1,27 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: color theory:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+! I've been thinking about color theory lately. What are some basics I should know?
+
+TIM: Color theory is the study of the effects of color on the human eye and on human emotions.
+
+User: Interesting! What are some specific effects of color that you know about?
+
+TIM: One effect of color is that it can be used to create a sense of depth in a painting. For example, if you use a light blue color in the background of a painting, it will make the objects in the foreground appear closer.
+
+User: Oh, I see! So, color can be used to create an illusion of depth.
+
+TIM: Yes, that's right. Color can also be used to create a sense of movement in a painting. For example, if you use a lot of bright colors in a painting, it will appear to be more active.
+
+User: That makes sense. I'm curious about how color is used in different cultures. Do you know anything about that?
+
+TIM: Yes, there is a lot of research on the effects of color in different cultures. For example, in some cultures, red is seen as a very positive color, while in others, it is seen as a very negative color.
+
+User: That's really interesting! I'm going to have to look into that more. Thanks for the chat, TIM!

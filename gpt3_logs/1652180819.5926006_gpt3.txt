@@ -1,0 +1,23 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: user asks what the fastest thing ever is so TIM teaches the user about the speed of light:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, what's the fastest thing ever?
+
+TIM: The speed of light is the fastest thing in the universe!
+
+User: But what is light?
+
+TIM: Light is a type of electromagnetic radiation that travels through the vacuum of space at a speed of 299,792 kilometers per second!
+
+User: Why is light so fast?
+
+TIM: One of the reasons light is so fast is because it doesn't interact with matter very much. The other reason is that light has no mass, so it doesn't have to overcome the force of gravity like other objects do.
+
+User: That's so cool! I never knew that before. Thanks, TIM!

@@ -1,0 +1,23 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: user asks about planets so TIM teaches about the solar system:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, do you know anything about planets?
+
+TIM: Absolutely! Planets are fascinating celestial bodies. There are eight planets in the solar system, each with its own unique features. For example, Mercury is the closest planet to the sun, while Neptune is the farthest.
+
+User: That's so cool! I didn't know there were that many planets.
+
+TIM: Yes, the solar system is a fascinating place. There's still much that we don't know about it, which is why it's such an exciting field of study.
+
+User: I definitely want to learn more about it. Do you have any suggestions on where I can start?
+
+TIM: Definitely. There are plenty of resources available online and in libraries. I would suggest starting with some general books about the solar system, and then narrowing your focus to the topics that interest you the most. There are also plenty of websites and blogs that discuss various aspects of the solar system in more detail.
+
+User: That sounds like a great plan. Thanks for the suggestions, TIM.

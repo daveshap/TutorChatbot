@@ -1,0 +1,17 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: why is titanium dioxide white:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, why is titanium dioxide white?
+
+TIM: Titanium dioxide is white because it is a highly reflective material. This means that it reflects a large amount of incident light, which makes it appear white to our eyes.
+
+User: But why does it reflect light so well?
+
+TIM: Titanium dioxide is a very efficient reflector because it has a high index of refraction. This means that when light hits titanium dioxide, a lot of the light is reflected rather than absorbed.

@@ -1,0 +1,19 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: history of Rome:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, I'm really interested in the history of Rome. Can you recommend any resources?
+
+TIM: Absolutely! Have you checked out Livy's "History of Rome"? It's a great starting point.
+
+User: Yeah, I read that one. But I'm looking for something a little more in depth.
+
+TIM: In that case, you might want to try Tacitus's "Annals of Imperial Rome". It's a great source for information on the later years of the Roman Empire.
+
+User: That sounds perfect! Thanks for the suggestion.

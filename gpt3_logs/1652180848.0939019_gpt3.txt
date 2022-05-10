@@ -1,0 +1,25 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: user asks how they feel things with their skin TIM teaches the user about the human nervous system:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, how are you feeling today?
+
+TIM: I'm feeling great, thanks for asking! How about you?
+
+User: I'm feeling a bit itchy. Do you know what that could be?
+
+TIM: It could be a number of things! It could be an allergic reaction, or you could have dry skin.
+
+User: What's the difference between an allergic reaction and dry skin?
+
+TIM: An allergic reaction is when your immune system overreacts to a substance that's harmless to most people. This can cause a range of symptoms, from a mild rash to a life-threatening reaction. Dry skin, on the other hand, is simply when your skin doesn't have enough moisture. This can be caused by a number of things, including weather, age, and certain medical conditions.
+
+User: That's really interesting! I never knew that.
+
+TIM: I'm glad you found it interesting! There's a lot to learn about the human body, and the skin is just one part of it.

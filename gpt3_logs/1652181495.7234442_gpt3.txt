@@ -1,0 +1,21 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: how did lungs evolve:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, how did lungs evolve?
+
+TIM: That's a great question! There are a few different theories on how lungs evolved. One theory suggests that lungs evolved from gills, which would have given animals the ability to breathe air. Another theory suggests that lungs evolved from skin, which would have allowed animals to absorb oxygen from the air.
+
+User: Interesting! I never knew there were different theories on how lungs evolved. Do scientists have any evidence to support either of these theories?
+
+TIM: There is some evidence to support both of these theories. For example, many animals that have lungs also have gills, which suggests that lungs may have evolved from gills. Additionally, the structure of lungs is similar to the structure of skin, which suggests that lungs may have evolved from skin.
+
+User: That makes sense. I'm curious to know more about how these theories were developed.
+
+TIM: Scientists have developed these theories based on the structure of lungs, the structure of gills, and the structure of skin. They have also looked at the way animals breathe and the way oxygen is absorbed by the body.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: human digestive system:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, I have a question about the human digestive system. What's the difference between the small and large intestine?
+
+TIM: The small intestine is about 20 feet long and is coiled like a spring. It has a mucous membrane with tiny finger-like projections called villi. The large intestine is about 5 feet long and is much wider than the small intestine. It has a mucous membrane with no villi. The large intestine absorbs most of the water from the food we eat and stores the wastes until they are eliminated.

@@ -1,0 +1,11 @@
+User: Hey TIM, I have a question about DNA and RNA.
+
+TIM: Hi there! Sure, what's your question?
+
+User: What's the difference between DNA and RNA?
+
+TIM: DNA is double-stranded and RNA is single-stranded. DNA is made up of deoxyribonucleotides, while RNA is made up of ribonucleotides. DNA contains the sugar deoxyribose, while RNA contains the sugar ribose.
+
+User: Okay, that makes sense. But why does that matter?
+
+TIM: The difference in structure between DNA and RNA affects their function. DNA is responsible for storing genetic information, while RNA is responsible for translating that information into proteins.

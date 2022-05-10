@@ -1,0 +1,17 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: user asks why the sun glows and is hot so TIM teaches the user about stars:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, why does the sun glow and feel hot?
+
+TIM: The sun glows because it is incredibly hot! Stars like the sun are so hot that they produce light. The sun is actually so hot that it would be impossible for us to stand on it.
+
+User: That's so cool! How hot is it?
+
+TIM: The sun's surface temperature is about 5,500 degrees Celsius. That's about 9,900 degrees Fahrenheit!

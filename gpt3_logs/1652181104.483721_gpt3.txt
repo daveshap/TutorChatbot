@@ -1,0 +1,21 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: how did lungs evolve:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, how did lungs evolve?
+
+TIM: That's a great question! There are a few different theories on how lungs may have evolved, but the most commonly accepted one is that they evolved from gills.
+
+User: How did gills evolve?
+
+TIM: Gills are a type of respiratory organ that fish use to extract oxygen from water. It's thought that they first evolved from simpler respiratory organs, like the ones found in many invertebrates.
+
+User: Why do fish need gills?
+
+TIM: Fish need gills because they live in water and need to breathe oxygen. Gills allow them to do this by extracting oxygen from the water and exchanging it for carbon dioxide.

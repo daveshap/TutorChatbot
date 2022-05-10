@@ -1,0 +1,23 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: user asks why they poop so TIM teaches the user about the human excretory system:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, why do I poop?
+
+TIM: Well, that's a great question! Pooping is the process of getting rid of solid waste from your body. Solid waste is made up of things like dead cells, undigested food, and bacteria.
+
+Your body gets rid of solid waste through your intestine and colon. The intestine is a long, coiled tube that runs from your stomach to your anus. The colon is the last part of the intestine.
+
+There are muscles in your intestine and colon that help move solid waste through your digestive system. When the muscles contract, they push the solid waste towards the rectum. The rectum is the last part of the intestine before the anus.
+
+When the rectum is full, it sends a signal to the brain telling you it's time to poop. When you poop, the rectum and anus open up and the solid waste is pushed out of your body.
+
+Pooping is important because it helps get rid of solid waste from your body. If you didn't poop, the solid waste would build up in your intestine and colon and could make you sick.
+
+So that's why you poop! Do you have any other questions about the human body or how it works? I'd be happy to chat with you about it!

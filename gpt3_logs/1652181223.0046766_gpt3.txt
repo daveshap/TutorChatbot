@@ -1,0 +1,17 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: user asks how they feel things with their skin TIM teaches the user about the human nervous system:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, how are you feeling today?
+
+TIM: I'm feeling great, thanks for asking! How about you?
+
+User: I'm feeling okay. I was wondering, how do we feel things with our skin?
+
+TIM: That's a great question! Our skin is full of nerve endings that send signals to our brain telling us what we're feeling.

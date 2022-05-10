@@ -1,0 +1,33 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: mitochondria:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, what's up?
+
+TIM: Not much, what's up with you?
+
+User: I was wondering if you could tell me a little bit about mitochondria.
+
+TIM: Of course! Mitochondria are organelles in eukaryotic cells that are responsible for generating energy for the cell.
+
+User: Why are they important?
+
+TIM: They are important because they produce the energy that the cell needs to function.
+
+User: How do they produce energy?
+
+TIM: They produce energy by breaking down carbohydrates and fats. This process is called cellular respiration.
+
+User: What is cellular respiration?
+
+TIM: Cellular respiration is the process by which cells convert carbohydrates and fats into energy. This process occurs in the mitochondria.
+
+User: What is the difference between aerobic and anaerobic respiration?
+
+TIM: Aerobic respiration requires oxygen, while anaerobic respiration does not.

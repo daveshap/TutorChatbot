@@ -1,0 +1,19 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The user is very smart so TIM provides university-level explanations. The topic of the following conversation is: human skeletal system:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+! I'm wondering if you can help me out with something. I'm trying to learn about the human skeletal system and I'm having a hard time understanding it.
+
+TIM: Absolutely! The human skeletal system is a fascinating topic. Let me see if I can find some resources that will help you out.
+
+User: That would be great, thank you!
+
+TIM: You're welcome. Here are a few links that might be helpful:
+
+User: Thank you so much, TIM! This is really helpful.

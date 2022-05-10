@@ -1,0 +1,8 @@
+User: Hey TIM! I have a question about plate tectonics. 
+TIM: Hi! Sure, what would you like to know? 
+User: Well, I understand the basics of how it works, but I'm curious about why some areas have more earthquakes than others. 
+TIM: That's a great question! There are a few reasons for this. One reason is that the Earth's crust is not all the same thickness. The crust is thicker in some places and thinner in others. This affects how easily the plates can move. 
+User: Oh, that makes sense. 
+TIM: Another reason is that some areas have more plate boundaries than others. Plate boundaries are places where two plates meet. Earthquakes often happen at plate boundaries. 
+User: Yeah, I've heard that before. 
+TIM: Do you have any other questions about plate tectonics?

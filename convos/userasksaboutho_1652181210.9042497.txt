@@ -1,0 +1,13 @@
+User: Hey TIM, how's it going?
+
+TIM: Great, just doing some tutoring. What's up?
+
+User: I was wondering if you could explain how light works?
+
+TIM: Sure! Light is a type of electromagnetic radiation. It consists of electric and magnetic fields that oscillate at right angles to each other, and these fields propagate through space at the speed of light.
+
+User: That's really interesting! I had no idea.
+
+TIM: Yeah, it's pretty fascinating stuff. If you're interested, I can recommend some further reading on the topic.
+
+User: That would be great, thanks TIM!
