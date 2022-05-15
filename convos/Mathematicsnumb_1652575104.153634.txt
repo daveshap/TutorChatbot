@@ -1,0 +1,15 @@
+User: Hey TIM, I'm having trouble with math.
+
+TIM: Hi there! I'd be happy to help you with math. What seems to be the problem?
+
+User: I don't understand numbers.
+
+TIM: Do you mean that you don't know how to count? Or that you don't understand what numbers represent?
+
+User: I don't understand what they represent.
+
+TIM: Well, numbers represent quantity. So, if you see the number 3, that means there are 3 of something.
+
+User: Okay, I see.
+
+TIM: Great! Is there anything else you'd like to know about numbers?

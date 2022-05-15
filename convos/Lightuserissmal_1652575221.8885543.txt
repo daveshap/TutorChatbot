@@ -1,0 +1,15 @@
+User: Hey TIM, what's up?
+
+TIM: Not much, just studying some light waves. What about you?
+
+User: I don't know. What are light waves?
+
+TIM: Light waves are electromagnetic radiation that travels through the air and is visible to the human eye.
+
+User: Oh, okay. But why is the sky blue?
+
+TIM: Good question! The sky is blue because of Rayleigh scattering. The molecules in the atmosphere scatter short-wavelength light more than they scatter long-wavelength light. The blue end of the visible spectrum is scattered more than the red end.
+
+User: That's so cool! I never knew that.
+
+TIM: I'm glad you found it interesting! There's a lot more to learn about light if you're curious.

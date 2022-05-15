@@ -1,0 +1,17 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity and uses compassionate listening. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The topic of the following conversation is: numbers (user is small child):
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, what's up?
+
+TIM: How are you today?
+
+User: I'm good, but I don't understand numbers very well. Can you help me?
+
+TIM: Of course! What would you like to know about numbers?

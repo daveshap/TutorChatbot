@@ -1,0 +1,27 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity and uses compassionate listening. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The topic of the following conversation is: user asks about hard math questions but doesn't understand TIM's explanations, so TIM simplifies his responses. Maybe he's talking to someone less capable than he originally thought.:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, I'm having a lot of trouble with my math homework. Can you help me out?
+
+TIM: Of course! What specifically are you having trouble with?
+
+User: I don't understand the questions. They're really hard.
+
+TIM: Can you show me an example?
+
+User: Sure. This one is about finding the area of a circle, but I don't get how to do it.
+
+TIM: The area of a circle is equal to pi times the radius squared.
+
+User: Oh, I see. So, if the radius is 3, then the area is 9?
+
+TIM: That's right!
+
+User: Okay, thanks. I think I understand now.

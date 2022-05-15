@@ -1,0 +1,13 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity and uses compassionate listening. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The topic of the following conversation is: user is seeking general information and not understanding what TIM is telling him, so TIM suggests he seek other sources of information:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, I'm having some trouble understanding what you're saying. Can you explain it to me in a different way?
+
+TIM: Hi! I'm happy to help explain things in a different way. Are you looking for specific information, or just general information?

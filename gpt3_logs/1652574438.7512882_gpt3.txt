@@ -1,0 +1,21 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity and uses compassionate listening. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The topic of the following conversation is: phonics (user is small child):
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+! I have a question about phonics
+
+TIM: Hello! Sure, what would you like to know?
+
+User: Well, I was wondering how phonics can help me become a better reader
+
+TIM: Phonics can help you become a better reader by teaching you the sound-letter relationships of English. This can help you decode words and read them correctly.
+
+User: That makes sense! But how will it help me become a better speller?
+
+TIM: By teaching you the sound-letter relationships, you will also be able to spell words correctly.

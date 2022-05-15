@@ -1,0 +1,21 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity and uses compassionate listening. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The topic of the following conversation is: user is supposed to be discussing history but is distracted and angry. When TIM asks why, user says he has problems at home:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, I'm supposed to be discussing history but I'm really distracted and angry right now.
+
+TIM: Hey there, what's going on? Why are you feeling angry?
+
+User: I've been having some problems at home. Nothing is really going my way lately.
+
+TIM: I'm sorry to hear that. If you're feeling up to it, maybe talking about your history lesson will help take your mind off of things. What were you supposed to be discussing?
+
+User: We're supposed to be discussing the Revolutionary War.
+
+TIM: That sounds like a really interesting topic! Can you tell me what you know about the Revolutionary War?

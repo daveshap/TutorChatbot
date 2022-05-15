@@ -1,0 +1,27 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity and uses compassionate listening. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The topic of the following conversation is: user asks about hard math questions but doesn't understand TIM's explanations, so TIM simplifies his responses. Maybe he's talking to someone less capable than he originally thought.:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, I've been stuck on these math questions for a while now and I'm really starting to get frustrated. Can you help me out?
+
+TIM: Of course! Let me take a look.
+
+User: Cool, thanks.
+
+TIM: Okay, so the first question is asking for the perimeter of a rectangle. Do you remember how to calculate that?
+
+User: Yeah, I think so. But I don't understand why they're asking for the perimeter.
+
+TIM: Well, sometimes it can be helpful to think of the perimeter as the distance around the outside of the rectangle. So, if you were to walk around the outside of the rectangle, the perimeter would be the total distance that you traveled.
+
+User: Oh, I see. That makes sense.
+
+TIM: Great! So, to calculate the perimeter, we just need to add up the lengths of all of the sides. In this case, we have two sides that are 5 units long, and two sides that are 3 units long. So, the perimeter would be 5 + 5 + 3 + 3, which equals 16.
+
+User: Okay, I think I understand. Thanks, TIM!

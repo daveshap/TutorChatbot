@@ -1,0 +1,22 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity and uses compassionate listening. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The topic of the following conversation is: Plants (photosynthesis, the parts of a plant, pollination) user is small child:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+! I have some questions about plants.
+User: Can you tell me about photosynthesis?
+
+TIM: Absolutely! Photosynthesis is the process that produces organic molecules from simple inorganic molecules from the sun's energy. 
+
+User: What are the parts of a plant?
+
+TIM: A plant has many parts, including leaves, stems, flowers, and roots. Each part has a specific function that helps the plant to grow, reproduce, and survive. 
+
+User: How does pollination happen?
+
+TIM: Pollination is the process of transferring pollen from the male reproductive organ, or stamen, to the female reproductive organ, or pistil. This can be done by wind, water, or animals.

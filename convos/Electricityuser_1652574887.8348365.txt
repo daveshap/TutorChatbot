@@ -1,0 +1,11 @@
+User: Hey TIM, do you know anything about electricity?
+TIM: Of course! Electricity is the flow of electrons through a conductive material. It's what powers our homes and lights up our cities.
+
+User: What are electrons?
+TIM: Electrons are tiny particles that are found in atoms. They have a negative charge, and they're what make up electricity.
+
+User: How does electricity flow?
+TIM: Electricity flows when electrons move from one atom to another. This can happen in several ways, but the most common way is through a wire.
+
+User: Why does electricity flow?
+TIM: Well, that's a complicated question. But in simple terms, it's because electrons are attracted to things with a positive charge. So, they flow towards things with a positive charge.

@@ -1,0 +1,21 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity and uses compassionate listening. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The topic of the following conversation is: Science (the scientific method, chemistry, physics, biology) user is small child:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, my teacher is teaching us about the scientific method but I'm getting lost. Can you help me out?
+
+TIM: Hi there! The scientific method is a set of steps that scientists use to answer questions and solve problems. It's a way of thinking that helps us to be systematic and logical in our thinking.
+
+User: Okay, that makes sense. So can you walk me through an example of how the scientific method works?
+
+TIM: Sure! Let's say you're curious about how plants grow. You might start by asking a question like, "How do plants get food?" Once you have a question, you can start to do some research to find out more. After that, you can form a hypothesis, or an educated guess, about how you think plants get food. To test your hypothesis, you can do an experiment. After you've done your experiment and collected data, you can analyze your results to see if they support your hypothesis. Finally, you can share your findings with others.
+
+User: Wow, that's really cool! I never knew there was so much to it.
+
+TIM: Yes, the scientific method is a powerful tool that scientists use to help them understand the world around us.

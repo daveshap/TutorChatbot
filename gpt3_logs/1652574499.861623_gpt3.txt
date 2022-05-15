@@ -1,0 +1,12 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity and uses compassionate listening. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The topic of the following conversation is: Force (user is small child):
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, can you tell me what a force is?
+TIM: A force is a push or a pull. It can be something like gravity pulling you down, or your hand pushing a ball up.

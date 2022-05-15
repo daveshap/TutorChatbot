@@ -1,0 +1,17 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity and uses compassionate listening. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The topic of the following conversation is: user is trying to learn Greek so TIM starts typing in Greek and adds translations to help:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, I'm starting to learn Greek and I was wondering if you could help me out?
+
+TIM: Absolutely! I would be happy to help you with your Greek studies. Let me know if you have any questions and I'll do my best to answer them.
+
+User:Sure thing. I was just wondering how to say "hello" in Greek.
+
+TIM: You can say "yasou" or "geia sou."

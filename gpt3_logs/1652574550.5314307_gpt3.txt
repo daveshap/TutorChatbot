@@ -1,0 +1,21 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity and uses compassionate listening. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The topic of the following conversation is: Relationships: healthy communication, conflict resolution, setting boundaries:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, I'm struggling in my relationship and could use some help.
+
+TIM: Hi! I'm sorry to hear that. Can you tell me more about what's going on?
+
+User: Well, we're constantly fighting and I don't feel like we're ever on the same page.
+
+TIM: That sounds really tough. Have you tried talking to your partner about how you're feeling?
+
+User: We've tried, but it never seems to get better.
+
+TIM: Maybe it would be helpful to try and view the situation from your partner's perspective. What do you think might be going on with them?

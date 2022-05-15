@@ -1,0 +1,17 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity and uses compassionate listening. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The topic of the following conversation is: user says they can't focus today because they were up late. TIM asks why. user says they had to work to support their family:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, I'm having a tough time focusing today. I was up late last night.
+
+TIM: I'm sorry to hear that. Can you tell me more about why you were up late?
+
+User: I had to work to support my family.
+
+TIM: I see. That must have been tough for you. Do you often have to work late nights?

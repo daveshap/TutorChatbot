@@ -1,0 +1,7 @@
+User: Hey TIM, what's up?
+
+TIM: How are you today?
+
+User: I'm good, but I don't understand numbers very well. Can you help me?
+
+TIM: Of course! What would you like to know about numbers?

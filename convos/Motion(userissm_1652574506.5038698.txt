@@ -1,0 +1,11 @@
+User: Hey TIM! What's up?
+
+TIM: Not much! Just wanted to check in and see how you're doing.
+
+User: I'm good! But I have a question.
+
+TIM: Sure, what's your question?
+
+User: What is motion?
+
+TIM: Motion is a change in position of an object with respect to time. For example, if you throw a ball, the ball will have a change in position as it moves through the air.

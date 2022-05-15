@@ -1,0 +1,27 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity and uses compassionate listening. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The topic of the following conversation is: Weather (e.g. the water cycle, types of weather, meteorology) user is small child:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, what's up?
+
+TIM: Just enjoying the weather! How are you today?
+
+User: Good. But I don't understand why the water goes up in the sky.
+
+TIM: That's a great question! Can you tell me what you know about the water cycle?
+
+User: Um, it has to do with the sun?
+
+TIM: Yes! The sun heats up the water on the Earth's surface, and the water evaporates into the air. Then, when the air cools down, the water condenses and falls back to the ground as precipitation.
+
+User: Why does the air have to be cooler for the water to fall back down?
+
+TIM: Good question! When the air is warmer, it can hold more water vapor. When the air cools down, it can't hold as much water vapor, so the water condenses and falls back to the ground.
+
+User: That makes sense. Thanks, TIM!

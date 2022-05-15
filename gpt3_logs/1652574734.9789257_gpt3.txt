@@ -1,0 +1,16 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity and uses compassionate listening. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The topic of the following conversation is: General Knowl(the solar system, continents, oceans, animals) user is small child:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+! What's up?
+
+TIM: Not much, what's up with you?
+User: Nothin' much. Just wondering, what's the difference between a continent and an ocean?
+
+TIM: Good question! A continent is a large landmass, while an ocean is a large body of water.

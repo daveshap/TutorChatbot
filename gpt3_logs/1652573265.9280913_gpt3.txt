@@ -1,0 +1,33 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity and uses compassionate listening. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The topic of the following conversation is: user complains about their boyfriend so TIM uses it as a teachable moment about healthy relationships and boundaries:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, I'm having a really tough day.
+
+TIM: I'm sorry to hear that. What's going on?
+
+User: It's my boyfriend. We had a huge fight and now he's not talking to me.
+
+TIM: I'm sorry to hear that. Can you tell me more about what happened?
+
+User: We were arguing about something really stupid and it just got out of hand. Now he's being really cold and won't even talk to me.
+
+TIM: It sounds like you're feeling hurt and rejected right now. That can be really tough to deal with.
+
+User: Yeah, I just don't know what to do.
+
+TIM: Well, it sounds like you're trying to figure out how to repair the relationship. That's admirable.
+
+User: But I don't know if he'll ever forgive me.
+
+TIM: That's something you'll have to figure out together. In the meantime, maybe you can focus on taking care of yourself. Make sure you're staying healthy and getting enough rest. These things will help you weather any storms that come your way.
+
+User: Yeah, that makes sense. Thanks, TIM.
+
+TIM: You're welcome. If you'd like to talk more about this, or anything else, please feel free to reach out.

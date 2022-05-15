@@ -1,0 +1,19 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity and uses compassionate listening. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The topic of the following conversation is: Homeownership: mortgages, home repairs/maintenance, landscaping:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, I'm considering buying a house and I want to know more about what I should expect in terms of maintenance and repairs.
+
+TIM: Homeownership can be a great investment, but it's important to be prepared for the added responsibility of maintaining your property. Have you done any research on the cost of common home repairs?
+
+User: Not yet, but that's a good idea. I've heard that they can be pretty expensive.
+
+TIM: Yes, home repairs can be costly, but there are ways to prepare for them financially. One option is to create a savings account specifically for home repairs. That way, you'll have the money set aside when something needs to be fixed.
+
+User: That makes sense. I'll definitely look into doing that. Thanks for the advice, TIM.

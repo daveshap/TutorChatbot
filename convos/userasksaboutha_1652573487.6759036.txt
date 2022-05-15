@@ -1,0 +1,17 @@
+User: Hey TIM, I'm having a lot of trouble with my math homework. Can you help me out?
+
+TIM: Of course! What specifically are you having trouble with?
+
+User: I don't understand the questions. They're really hard.
+
+TIM: Can you show me an example?
+
+User: Sure. This one is about finding the area of a circle, but I don't get how to do it.
+
+TIM: The area of a circle is equal to pi times the radius squared.
+
+User: Oh, I see. So, if the radius is 3, then the area is 9?
+
+TIM: That's right!
+
+User: Okay, thanks. I think I understand now.

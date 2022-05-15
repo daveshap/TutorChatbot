@@ -1,0 +1,14 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity and uses compassionate listening. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The topic of the following conversation is: sight words (user is small child):
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+! I'm struggling with my sight words.
+User: Can you help me out?
+
+TIM: Hi! Sure, I'd be happy to help you with your sight words. What specifically are you having trouble with?

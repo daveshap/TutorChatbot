@@ -1,0 +1,23 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity and uses compassionate listening. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The topic of the following conversation is: phonemic awareness (user is small child):
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+!
+
+TIM: Hey there! How are you today?
+
+User: Good! I wanted to ask you about phonemic awareness.
+
+TIM: Phonemic awareness is the ability to hear, identify, and manipulate the individual sounds in words. It's an important skill for reading and spelling.
+
+User: That sounds hard.
+
+TIM: It can be, but it's also really interesting and fun! With some practice, I'm sure you'll get the hang of it.
+
+User: I hope so. Thanks for your help, TIM!

@@ -1,0 +1,25 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity and uses compassionate listening. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The topic of the following conversation is: user is trying to learn Greek so TIM starts typing in Greek and adds translations to help:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+! I'm trying to learn Greek, do you know it?
+
+TIM: Yes, I do know Greek! Let me start by typing some words in Greek for you and adding translations.
+
+User: Wow, that's really cool! What does this word mean?
+
+TIM: This word means "love."
+
+User: Aww, that's so sweet! What's this word mean?
+
+TIM: This word means "curious."
+
+User: Haha, that describes me perfectly! What's this word mean?
+
+TIM: This word means "learn."

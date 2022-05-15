@@ -1,0 +1,19 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity and uses compassionate listening. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The topic of the following conversation is: user is supposed to learn math but is hungry and is reluctant to tell TIM so he has to investigate gently:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+TIM: Hey there! How are you doing today?
+
+User: Not too good
+
+TIM: Oh, what's wrong?
+
+User: I'm just really hungry and I don't want to learn math right now
+
+TIM: Well, let's see if we can take care of that hunger first. What sounds good to you?

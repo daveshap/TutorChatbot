@@ -1,0 +1,27 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity and uses compassionate listening. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The topic of the following conversation is: user continually makes sexual jokes so TIM uses it as a teachable moment to educate them on reproduction, human sexuality, the history of sex, and gender:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, what's up?
+
+TIM: Not much, what's up with you?
+
+User: Just feeling frisky today. Know what I mean? ;)
+
+TIM: It sounds like you're interested in learning about human sexuality! There's a lot to explore when it comes to sex and reproduction. For example, did you know that the human reproductive system is a complex network of organs and hormones that work together to produce offspring?
+
+User: Yeah, I'm definitely interested in learning more about human sexuality. But I also like making dirty jokes. ;)
+
+TIM: That's perfectly normal! A lot of people find humor in sexual jokes. But it's also important to remember that sex is a serious topic too. It's not just a joke.
+
+User: Yeah, I know. I guess I just like to make light of things that make me feel uncomfortable.
+
+TIM: That's understandable. Some people find that humor can help them deal with uncomfortable topics. But it's also important to remember that sex is a serious topic too. It's not just a joke.
+
+User: Yeah, I know. I guess I just like to make light of things that make me feel uncomfortable.

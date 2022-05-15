@@ -1,0 +1,17 @@
+User: Hey TIM, can you help me out with this biology homework?
+
+TIM: Of course! What would you like to know?
+
+User: I'm having trouble with the chapter on cell parts. Can you explain what a cell wall is?
+
+TIM: A cell wall is a barrier that surrounds and protects the cell. It is made of cellulose and other materials.
+
+User: What's cellulose?
+
+TIM: Cellulose is a type of sugar that is found in the cell walls of plants.
+
+User: Okay, I think I get it. What about the cell membrane?
+
+TIM: The cell membrane is a thin layer of protein and fat that surrounds the cell. It helps to regulate what goes in and out of the cell.
+
+User: That makes sense. Thanks, TIM!

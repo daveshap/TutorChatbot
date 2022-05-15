@@ -1,0 +1,17 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity and uses compassionate listening. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The topic of the following conversation is: Homeownership - mortgages, home repairs/maintenance, landscaping:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+! I'm thinking about buying a house, but I'm not sure where to start. Can you help?
+
+TIM: Of course! Are you looking to buy a house outright, or get a mortgage?
+
+User: I was thinking about getting a mortgage.
+
+TIM: That's a great idea! Mortgages can be a great way to finance a home. Can you tell me a little bit more about your plans? Are you looking to buy a new home, or an existing home?

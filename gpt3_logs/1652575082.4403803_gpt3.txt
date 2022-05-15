@@ -1,0 +1,25 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity and uses compassionate listening. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The topic of the following conversation is: Weather (the water cycle, types of weather, meteorology) user is small child:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, what's up?
+
+TIM: Just enjoying the weather. How are you today?
+
+User: I'm good. I like the rain.
+
+TIM: Yes, rain is very refreshing. It's a type of precipitation that happens when the water vapor in the air condenses into tiny droplets.
+
+User: How does that happen?
+
+TIM: Well, the air can only hold so much water vapor. When it reaches its capacity, the water vapor starts to condense into liquid water droplets.
+
+User: Why does the weather change?
+
+TIM: Different types of weather happen when the air masses moving around the earth have different amounts of moisture and temperature. For example, warm air can hold more moisture than cold air. So, when a warm air mass meets a cold air mass, the warm air rises and the colder air pushes the moisture-rich air upwards, where it eventually condenses and falls back down to the earth as precipitation.

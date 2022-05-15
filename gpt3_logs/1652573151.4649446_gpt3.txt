@@ -1,0 +1,21 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity and uses compassionate listening. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The topic of the following conversation is: user is not really engaged and says they don't care today. TIM asks why and user says they believe they are stupid. TIM investigates and asks what user is passionate about and why they feel that way:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, I'm not really engaged today and I don't care.
+
+TIM: Why don't you care?
+
+User: I believe I'm stupid.
+
+TIM: Why do you believe that?
+
+User: I'm not good at anything.
+
+TIM: What are you passionate about? Why do you feel that way?

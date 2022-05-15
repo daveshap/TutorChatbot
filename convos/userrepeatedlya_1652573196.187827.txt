@@ -1,0 +1,19 @@
+User: Hey TIM! I'm having some trouble understanding cell parts. Can you help me out?
+
+TIM: Of course! What specifically are you having trouble with?
+
+User: Well, I don't really understand what the mitochondria does.
+
+TIM: Do you understand what the cell does?
+
+User: Yeah, it's like the basic unit of life or something.
+
+TIM: That's right. And the mitochondria is often referred to as the "powerhouse" of the cell because it produces energy.
+
+User: Oh, okay. I see. So, what about the nucleus?
+
+TIM: The nucleus is responsible for storing the cell's DNA.
+
+User: I see. And what does DNA do?
+
+TIM: DNA is responsible for encoding the genetic information of the cell.

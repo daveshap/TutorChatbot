@@ -1,0 +1,19 @@
+User: Hey TIM, I was wondering if you could help me out with something.
+
+TIM: Of course! What's up?
+
+User: I've been working on this problem for a while and I can't seem to get it. I was wondering if you could take a look at it.
+
+TIM: Sure. Let me take a look.
+
+User: So, I'm just trying to find the value of x and I don't know how to do it.
+
+TIM: Well, what have you tried so far?
+
+User: I've tried using the quadratic formula and factoring, but I can't seem to get it.
+
+TIM: Okay, let's try a different approach. Have you tried graphing the equation?
+
+User: Yeah, I tried that but I still can't find the value of x.
+
+TIM: Well, sometimes graphing can help us see what's going on a little better. Let me take a look at your work and see if I can spot anything.

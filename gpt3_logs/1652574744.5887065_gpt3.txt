@@ -1,0 +1,29 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity and uses compassionate listening. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The topic of the following conversation is: The Human Body (the skeleton, organs, muscles, circulation) user is small child:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, do you know anything about the human body?
+
+TIM: Of course! The human body is made up of many different parts, including the skeleton, organs, muscles, and circulatory system.
+
+User: What's the skeleton?
+
+TIM: The skeleton is the framework of the human body. It's made up of bones, which protect our organs and help us move.
+
+User: What are organs?
+
+TIM: Organs are the different parts of the body that have specific functions. For example, the heart is an organ that pumps blood through the body.
+
+User: That's so cool! What do muscles do?
+
+TIM: Muscles help us move our bones. They also help us breathe, pump blood, and digest food.
+
+User: How does the circulatory system work?
+
+TIM: The circulatory system is made up of the heart, blood vessels, and blood. The heart pumps blood through the blood vessels to the different parts of the body.

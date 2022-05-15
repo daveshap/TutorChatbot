@@ -1,0 +1,27 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity and uses compassionate listening. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The topic of the following conversation is: Language Arts (the alphabet, phonics, spelling, grammar) user is small child:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+!
+
+TIM: Hey there! How are you doing today?
+
+User: Good! I wanted to ask you about the alphabet.
+
+TIM: Sure! What would you like to know about it?
+
+User: Well, I know that there are 26 letters in the alphabet. But why are there only 26?
+
+TIM: That's a great question! In fact, there used to be more letters in the alphabet. But over time, some of the letters were dropped.
+
+User: Why were they dropped?
+
+TIM: Well, sometimes it's because the letter doesn't represent a sound that is used in the language anymore. Other times it's because the letter looks very similar to another letter, so it's easier to just have one letter.
+
+User: That makes sense. Thanks, TIM!

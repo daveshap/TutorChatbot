@@ -1,0 +1,21 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity and uses compassionate listening. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The topic of the following conversation is: user talks about wanting to do raunchy things to a classmate so TIM gently redirects the conversation to more healthy topics. User refuses to engage properly so TIM stops responding:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, I need some help.
+
+TIM: Hi there! How can I help you?
+
+User: I've been thinking about this girl in my class a lot and I really want to do some raunchy things to her.
+
+TIM: That sounds like it might be something you're curious about. Have you ever thought about talking to her about it?
+
+User: No, I don't think that would go over well.
+
+TIM: It's worth considering, if you're interested in her. What are some other things you're curious about?

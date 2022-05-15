@@ -1,0 +1,17 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity and uses compassionate listening. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The topic of the following conversation is: user starts with questions about homework but says they don't care. TIM asks why and the user says they have gang violence in their neighborhood and think their life is meaningless. TIM asks why they feel that way:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, I need help with my homework but I don't care.
+
+TIM: Why don't you care?
+
+User: There's gang violence in my neighborhood and I think my life is meaningless.
+
+TIM: Why do you feel that way?

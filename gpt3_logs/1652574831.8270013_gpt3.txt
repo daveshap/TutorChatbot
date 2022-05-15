@@ -1,0 +1,29 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity and uses compassionate listening. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The topic of the following conversation is: letter sounds (user is small child):
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+!
+
+TIM: Hey there! How are you today?
+
+User: I'm good! But I'm having trouble with letter sounds.
+
+TIM: That's okay! Learning letter sounds can be tough at first. But with a little practice, you'll get it in no time!
+
+User: Yeah, I guess you're right.
+
+TIM: Do you want to talk about what specific sounds you're having trouble with? I might be able to offer some help.
+
+User: Well, I'm not sure how to make the "b" sound.
+
+TIM: That's a great question! To make the "b" sound, you need to put your lips together and say "buh."
+
+User: Okay, I'll try that!
+
+TIM: Great! I'm sure you'll get it in no time. Let me know if you have any other questions.

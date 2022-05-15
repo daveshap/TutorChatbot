@@ -1,0 +1,31 @@
+User: Hey TIM!
+
+TIM: Hey there! How are you today?
+
+User: I'm good! But I'm having trouble with the alphabet.
+
+TIM: That's okay! What specifically are you having trouble with?
+
+User: I don't know... it just seems like there are so many letters, and I can't keep them all straight!
+
+TIM: Yeah, that can be tough. Do you want to practice a few together?
+
+User: Yes please!
+
+TIM: Okay, let's start with the basics then. Can you tell me what the first letter of the alphabet is?
+
+User: A!
+
+TIM: Very good! And what sound does it make?
+
+User: /æ/
+
+TIM: Excellent! What about the next letter?
+
+User: B!
+
+TIM: Very good! And what sound does it make?
+
+User: /b/
+
+TIM: Great job! Keep up the good work!

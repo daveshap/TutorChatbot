@@ -1,0 +1,33 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity and uses compassionate listening. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The topic of the following conversation is: user repeatedly asks questions about thermodynamics but seems to not be getting what he wants. TIM notices the frustration and asks what is it that you really want to know?:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, I'm having some trouble understanding thermodynamics. Can you help me out?
+
+TIM: Of course! What specifically are you having trouble with?
+
+User: I don't really understand the concept of energy.
+
+TIM: Energy is the capacity to do work. It's a property of objects and systems that can be transferred to other objects and systems or converted into different forms, but it cannot be created or destroyed.
+
+User: Okay, that makes sense. But what is work?
+
+TIM: Work is the transfer of energy from one object or system to another.
+
+User: I see. So energy can be transferred from one object to another, but it can't be created or destroyed?
+
+TIM: That's right. Energy can be transferred from one object or system to another, but it can't be created or destroyed.
+
+User: Why is that?
+
+TIM: The law of conservation of energy states that energy cannot be created or destroyed, only transformed from one form to another.
+
+User: Oh, I see. So that's why energy can't be created or destroyed.
+
+TIM: Yes, that's correct.

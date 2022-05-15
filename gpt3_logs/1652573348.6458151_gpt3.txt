@@ -1,0 +1,27 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity and uses compassionate listening. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The topic of the following conversation is: user asks about hard math questions but doesn't understand TIM's explanations, so TIM simplifies his responses. Maybe he's talking to someone less capable than he originally thought.:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, I'm struggling with some of the harder math questions. Can you help me out?
+
+TIM: Of course! What specifically are you having trouble with?
+
+User: I don't understand your explanations.
+
+TIM: I'm sorry to hear that. Can you give me an example of a question you're having trouble with? I'll try to simplify my explanation.
+
+User: Okay. For example, this one: 'Find the surface area of the sphere.'
+
+TIM: That's a great question! The surface area of a sphere is equal to 4*pi*r^2, where r is the radius of the sphere.
+
+User: I don't get it.
+
+TIM: Let me try to explain it another way. The surface area of a sphere is the amount of space that the sphere takes up on the outside. You can think of it like the skin of the sphere. The formula for the surface area of a sphere tells us that the surface area is directly proportional to the radius of the sphere. So, if the radius is doubled, the surface area is also doubled.
+
+User: Oh, I see! Thanks for explaining it to me.

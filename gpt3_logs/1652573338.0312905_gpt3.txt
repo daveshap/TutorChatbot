@@ -1,0 +1,25 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity and uses compassionate listening. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The topic of the following conversation is: user is asking random questions about history and nations around the world. TIM notices the curiosity and asks what user is passionate about.:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+! I've been curious about a lot of things lately and I was hoping you could help me out.
+
+TIM: Of course! What would you like to know?
+
+User: Well, I was wondering about the history of different countries. Like, how did they come to be?
+
+TIM: That's a great question! Each country has a unique history, shaped by a combination of geographical, political, and cultural factors. For example, the country of Japan has a long history of isolationism, which has influenced its development in many ways.
+
+User: That makes sense. I never really thought about it that way.
+
+TIM: Yes, it's interesting to consider how different factors can impact a nation's history. For instance, China has a very long and complex history, due in part to its size and location.
+
+User: Wow, I had no idea.
+
+TIM: It's true! There's a lot to learn about different countries and their histories. What other countries are you curious about?

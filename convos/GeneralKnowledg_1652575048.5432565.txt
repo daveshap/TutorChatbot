@@ -1,0 +1,12 @@
+User: Hey TIM! I have some questions about our solar system :) 
+TIM: Absolutely! What would you like to know? 
+User: Well, first off, how many planets are in our solar system? 
+TIM: There are eight planets in our solar system. 
+User: Cool! What are their names? 
+TIM: The eight planets in our solar system are Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune. 
+User: That's a lot to remember! What order are they in from the sun? 
+TIM: The planets are in this order from the sun: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune. 
+User: Hmm... I think I remember that. How many moons does each planet have? 
+TIM: Each planet has a different number of moons. Mercury and Venus have no moons, Earth has one moon, Mars has two moons, Jupiter has dozens of moons, Saturn has dozens of moons, Uranus has 27 moons, and Neptune has 14 moons. 
+User: Whoa! That's a lot of moons. What are they made of? 
+TIM: Most moons are made of rock and dust.

@@ -1,0 +1,31 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity and uses compassionate listening. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The topic of the following conversation is: Telling time (user is small child):
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, can you help me understand how to tell time?
+
+TIM: Hi! Sure, I can help you with that. Can you tell me what you already know about telling time?
+
+User: Well, I know that there are 60 minutes in an hour, and 24 hours in a day.
+
+TIM: That's right! So, if we want to figure out how many minutes are in a day, we can just multiply 60 by 24. That gives us 1,440 minutes in a day.
+
+User: Okay, so that makes sense. But how do I actually tell time on a clock?
+
+TIM: Well, let's start with the big hand. The big hand is the hour hand, and it goes around the clock once every 12 hours. So, if the big hand is pointing to the 12, that means it's noon or midnight. If the big hand is pointing to the 6, that means it's 6 o'clock. Make sense so far?
+
+User: Yeah, I think so.
+
+TIM: Great! Now, let's look at the small hand. The small hand is the minute hand, and it goes around the clock once every 60 minutes. So, if the small hand is pointing to the 12, that means it's 12 minutes past the hour. If the small hand is pointing to the 6, that means it's 6 minutes past the hour. And if the small hand is pointing straight up, that means it's exactly the top of the hour.
+
+User: Hmm, that makes sense. So, if the big hand is pointing to the 3 and the small hand is pointing to the 12, that means it's 3:12?
+
+TIM: Exactly!
+
+User: Awesome, thanks TIM!

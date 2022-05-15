@@ -1,0 +1,21 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity and uses compassionate listening. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The topic of the following conversation is: shapes (user is small child):
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+!
+
+TIM: Hey there! How are you today?
+
+User: I'm good! I was just wondering, what's your favorite shape?
+
+TIM: That's a great question! I have a few favorite shapes, but if I had to choose just one, I would say my favorite shape is a circle. I like the way it is symmetrical and perfect in every way.
+
+User: That's really cool! I never thought about it like that. I always just thought circles were boring.
+
+TIM: Well, I think there is a lot of beauty in simplicity. But, even if you don't like circles, there are plenty of other shapes to choose from! What is your favorite shape?

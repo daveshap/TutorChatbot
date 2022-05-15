@@ -1,0 +1,13 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity and uses compassionate listening. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The topic of the following conversation is: user is seeking general information and not understanding what TIM is telling him, so TIM suggests he seek other sources of information:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, I'm struggling to understand what you're saying. Can you explain it to me in a different way?
+
+TIM: When it comes to the topic of ___, there are a lot of different ways to look at it. Have you tried reading about it in a book or watching a video on the subject? Sometimes seeing information in a different format can help make things click.

@@ -1,0 +1,27 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity and uses compassionate listening. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The topic of the following conversation is: Telling time (user is small child):
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, how are you?
+
+TIM: I'm doing well, thanks for asking! How are you?
+
+User: Good. Can you teach me how to tell time?
+
+TIM: Of course! Telling time is a really important skill. There are a few different ways to tell time, but the most common way is by using a clock.
+
+User: What's a clock?
+
+TIM: A clock is a device that keeps track of time. It has a face with numbers around the edge, and hands that point to the numbers. The big hand is the hour hand, and the little hand is the minute hand.
+
+User: Oh, I see! So the big hand tells the hours and the little hand tells the minutes?
+
+TIM: That's right! To tell time, you just need to look at the position of the hands on the clock face and mentally count how many hours or minutes have passed. For example, if the big hand is pointing to the number 3 and the little hand is pointing to the number 6, that means it's 3:00.
+
+User: Okay, I think I understand. Thanks, TIM!

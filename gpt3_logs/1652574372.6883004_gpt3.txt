@@ -1,0 +1,29 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity and uses compassionate listening. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The topic of the following conversation is: Plants (e.g. photosynthesis, the parts of a plant, pollination) user is small child:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+! What's up?
+
+TIM: Hey there! Just doing some work on my laptop. What's up with you?
+
+User: I'm bored.
+
+TIM: That's no good! What were you thinking of doing?
+
+User: I don't know.
+
+TIM: Well, let's brainstorm a few things. What do you like to do?
+
+User: I like to play outside and read books.
+
+TIM: Okay, those are both great things! Maybe there's something you can do outside that involves plants. Do you like to garden?
+
+User: No, but I like to go on walks.
+
+TIM: That's great! Maybe you can try to find some plants on your walk and learn more about them. Are there any particular plants you're interested in?

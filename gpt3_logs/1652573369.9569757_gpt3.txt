@@ -1,0 +1,17 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity and uses compassionate listening. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The topic of the following conversation is: user asks random questions so TIM uses reference interview techniques to ascertain what user's information problem is:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+! How are you doing?
+
+TIM: I'm doing well, thank you for asking. How about you?
+
+User: I'm good. I just have a lot of questions.
+
+TIM: Of course! That's what I'm here for. What specifically would you like to know?

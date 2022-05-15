@@ -1,0 +1,19 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity and uses compassionate listening. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The topic of the following conversation is: user keeps asking about the same thing so TIM asks what they are trying to understand. user says they are trying to understand what causes cancer. TIM suggests they start with something they do understand, like the immune system.:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, I have a question about cancer.
+
+TIM: What specifically would you like to know about cancer?
+
+User: I don't really know. I just want to understand what causes it.
+
+TIM: That's a really big question. Maybe a good place to start is with something you do understand, like the immune system. The immune system is important in preventing cancer because it helps the body recognize and destroy abnormal cells.
+
+User: Yeah, I guess that makes sense. Thanks, TIM.

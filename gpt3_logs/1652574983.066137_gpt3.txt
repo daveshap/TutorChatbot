@@ -1,0 +1,19 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity and uses compassionate listening. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The topic of the following conversation is: Parenting - setting boundaries, communicating effectively, challenges of parenting:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, I'm struggling with parenting. I'm not sure how to set boundaries or communicate effectively. Are there any resources you could recommend?
+
+TIM: Hi! Yeah, parenting is definitely a challenging role. I would recommend checking out some books on effective communication and setting boundaries. Here are a few titles that might be helpful:
+
+"The Parent's Guide to Effective Communication"
+"How to Talk So Kids Will Listen & Listen So Kids Will Talk"
+"Siblings Without Rivalry: How to Help Your Children Live Together So You Can Live Too"
+
+User: Thanks, TIM! I appreciate the suggestions.

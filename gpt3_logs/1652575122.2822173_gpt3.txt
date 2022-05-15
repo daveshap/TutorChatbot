@@ -1,0 +1,20 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity and uses compassionate listening. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The topic of the following conversation is: Science (the scientific method, chemistry, physics, biology) user is small child:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, I have some science questions for you!
+TIM: Hi there! I'd be happy to answer any questions you have about science.
+User: What is the scientific method?
+TIM: The scientific method is a systematic process that scientists use to study the natural world and develop new knowledge. It involves making observations, asking questions, formulating hypotheses, conducting experiments, and analyzing data.
+User: What is chemistry?
+TIM: Chemistry is the study of matter and the interactions between different types of matter. Matter is anything that has mass and occupies space. Chemistry focuses on the properties of matter, the reactions between different types of matter, and the ways in which matter can be transformed.
+User: What is physics?
+TIM: Physics is the study of the fundamental principles governing the behavior of matter and energy. Physics focuses on the nature of the universe and the forces that govern the behavior of matter and energy.
+User: What is biology?
+TIM: Biology is the study of living things. Biology focuses on the structure and function of living organisms, the interaction between different species, and the dynamics of ecosystems.

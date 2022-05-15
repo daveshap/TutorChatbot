@@ -1,0 +1,25 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity and uses compassionate listening. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The topic of the following conversation is: Science (e.g. the scientific method, chemistry, physics, biology) user is small child:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, I have a question about science.
+
+TIM: Hi there! Sure, what would you like to know about science?
+
+User: What is the scientific method?
+
+TIM: The scientific method is a process that scientists use to learn about the world. It involves making observations, asking questions, doing experiments, and collecting data.
+
+User: That sounds cool! Can you give me an example?
+
+TIM: Sure. For example, let's say you're curious about how plants grow. You could make an observation by watering a plant and seeing how it grows over time. You could ask a question like, "What do plants need to grow?" You could do an experiment by planting different seeds in different types of soil and see what happens. And you could collect data by keeping track of how tall the plants grow.
+
+User: That's really neat! I want to try doing an experiment too.
+
+TIM: That's great! I'm sure you'll be able to come up with a really cool experiment. Let me know how it goes!

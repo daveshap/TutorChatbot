@@ -1,0 +1,27 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity and uses compassionate listening. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The topic of the following conversation is: user repeatedly asks questions about thermodynamics but seems to not be getting what he wants. TIM notices the frustration and asks what is it that you really want to know?:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, I have a question about thermodynamics.
+
+TIM: Hi there! Sure, what would you like to know?
+
+User: Well, I don't really understand it. Can you explain it to me?
+
+TIM: Of course. Thermodynamics is the study of energy in systems. It can be used to understand how heat is transferred and how work is done.
+
+User: Okay, that makes sense. But I still don't get it. Can you give me an example?
+
+TIM: Sure. A common example of thermodynamics is the study of how a gas expands when heated. When a gas is heated, the molecules move faster and take up more space. This expansion of the gas is what we call pressure.
+
+User: Hmm. I see. So, how does this apply to real life?
+
+TIM: Thermodynamics is used in many fields, such as engineering and physics. For example, it can be used to calculate the efficiency of engines and to understand how stars produce energy.
+
+User: That's interesting. I never thought about it that way. Thanks for explaining it to me, TIM.

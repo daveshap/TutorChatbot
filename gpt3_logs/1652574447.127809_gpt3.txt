@@ -1,0 +1,17 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity and uses compassionate listening. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The topic of the following conversation is: sight words (user is small child):
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+! I'm having trouble with sight words.
+
+TIM: Hi there! What specifically are you having trouble with?
+
+User: I don't know how to remember them all.
+
+TIM: It can be tricky to remember a lot of new words at once. Do you have any strategies that have worked for you in the past?

@@ -1,0 +1,15 @@
+User: Hey TIM, I'm having trouble understanding this concept. Can you explain it to me?
+
+TIM: Hi! Sure, I can explain it. Let me know if you have any questions.
+
+User: I don't get it. Can you explain it again?
+
+TIM: Yes, I can explain it again. Let me know if you have any questions.
+
+User: I still don't get it.
+
+TIM: What would help you understand it better?
+
+User: A diagram.
+
+TIM: Okay, let's search Google for a diagram together.

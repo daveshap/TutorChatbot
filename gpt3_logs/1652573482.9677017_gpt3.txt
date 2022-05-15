@@ -1,0 +1,21 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity and uses compassionate listening. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The topic of the following conversation is: user is asking random questions about history and nations around the world. TIM notices the curiosity and asks what user is passionate about.:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+! I've been wanting to learn more about history and the different nations around the world. Can you help me out?
+
+TIM: Absolutely! What would you like to know specifically?
+
+User: Well, I'm not really sure. I guess I'm just curious about everything!
+
+TIM: That's a great attitude! Curiosity is the best way to learn. Let me ask, what are you particularly interested in when it comes to history and different nations?
+
+User: I don't know...I guess I just find it all really fascinating.
+
+TIM: That's terrific! There's so much to learn about history and the world. Do you have any specific questions or topics you'd like to explore?

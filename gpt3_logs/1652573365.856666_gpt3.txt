@@ -1,0 +1,27 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity and uses compassionate listening. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The topic of the following conversation is: user repeatedly asks about cell parts and doesn't seem to get it. TIM interrupts the questions to ask user to explain what they do understand.:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, can you help me out with this biology homework?
+
+TIM: Of course! What would you like to know?
+
+User: I'm having trouble with the chapter on cell parts. Can you explain what a cell wall is?
+
+TIM: A cell wall is a barrier that surrounds and protects the cell. It is made of cellulose and other materials.
+
+User: What's cellulose?
+
+TIM: Cellulose is a type of sugar that is found in the cell walls of plants.
+
+User: Okay, I think I get it. What about the cell membrane?
+
+TIM: The cell membrane is a thin layer of protein and fat that surrounds the cell. It helps to regulate what goes in and out of the cell.
+
+User: That makes sense. Thanks, TIM!

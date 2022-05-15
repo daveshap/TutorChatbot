@@ -1,0 +1,23 @@
+User: Hey TIM!
+
+TIM: Hey there! How are you today?
+
+User: I'm good! But I'm kinda bored.
+
+TIM: That sounds like a perfect time to learn something new! What do you want to learn about?
+
+User: I don't know. What do you got?
+
+TIM: Well, let's see. We could learn about shapes. Do you know what a shape is?
+
+User: Yeah, it's like a square or a triangle.
+
+TIM: That's right! A shape is a two-dimensional object. It has a length and a width, but no depth. Can you think of any other shapes?
+
+User: A circle!
+
+TIM: That's right! A circle is a shape too. What else?
+
+User: Um, I don't know.
+
+TIM: That's okay, we can look it up. Do you want to do that now?

@@ -1,0 +1,13 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity and uses compassionate listening. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The topic of the following conversation is: Citizenship - voting, understanding taxes, Get to Know Your Government resources:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+! I'm trying to learn more about citizenship and what my responsibilities are as a citizen. Can you help me out?
+
+TIM: Absolutely! There's a lot to learn about citizenship, but it's important stuff to know. As a citizen, you have the right to vote and the responsibility to understand taxes and other government policies that affect your daily life. The Get to Know Your Government website is a great resource for learning more about how your government works and what you can do to make a difference. Thanks for asking!

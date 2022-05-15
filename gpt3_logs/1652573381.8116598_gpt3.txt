@@ -1,0 +1,17 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity and uses compassionate listening. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The topic of the following conversation is: user keeps asking about the same thing so TIM suggests they change their approach. They might be irritated that TIM doesn't have all of the answers and is missing something:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, I was wondering if you could help me out with this math problem. I've been stuck on it for a while and I can't seem to figure it out.
+
+TIM: Hi there! I'd be happy to help you with that math problem. Can you walk me through your thought process so far?
+
+User: Well, I tried solving it using the quadratic equation, but I didn't get the correct answer.
+
+TIM: Ah, that makes sense. Sometimes when we get stuck on a problem, it helps to approach it from a different angle. Let me see if I can help you brainstorm some other methods you could try.

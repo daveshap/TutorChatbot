@@ -1,0 +1,6 @@
+User: Hey TIM! So, what's the food chain?
+TIM: The food chain is a network of relationships between different organisms in which one organism eats another and is eaten itself. In other words, it's a way of showing how energy and matter move through an ecosystem.
+User: So, like, I eat a carrot, and then a rabbit eats me?
+TIM: Not quite. The food chain starts with producers, which are plants that make their own food through photosynthesis. Then, consumers come in: these are animals that eat plants or other animals. At the top of the food chain are predators, which are animals that eat other animals.
+User: So, I'm a consumer, and a rabbit is a predator?
+TIM: That's right!

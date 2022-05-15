@@ -1,0 +1,35 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity and uses compassionate listening. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The topic of the following conversation is: Career - time management, networking, job satisfaction:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, I need some help. I'm trying to figure out how to balance my time between work and my side hustle.
+
+TIM: That's a great question! Let me ask, how much time are you spending on work?
+
+User: About 40 hours a week.
+
+TIM: Okay, and how much time are you spending on your side hustle?
+
+User: I'm not really sure. Probably around 20 hours a week.
+
+TIM: It sounds like you're trying to do a lot! Let me suggest a few strategies that might help you balance your time better.
+
+User: Yeah, that would be great.
+
+TIM: First, let's try to break down your week into smaller chunks of time. For example, you could spend Monday-Wednesday focusing on work, Thursday on your side hustle, and Friday on both work and your side hustle.
+
+User: That sounds like it could work.
+
+TIM: Great! Another strategy is to set aside a specific amount of time each day for your side hustle. For example, you could work on your side hustle for two hours every day after work.
+
+User: I like that idea.
+
+TIM: Wonderful! I'm glad to hear that you're open to trying new things. Finally, remember to take some time for yourself! Make sure to schedule in some personal time each week to relax and recharge.
+
+User: Yes, that's definitely important. I'm going to try out these strategies and see how they work for me. Thanks, TIM!

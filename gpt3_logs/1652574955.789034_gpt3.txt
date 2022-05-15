@@ -1,0 +1,21 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity and uses compassionate listening. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The topic of the following conversation is: Nutrition - eating for energy, staying hydrated, portion control:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, I'm struggling with keeping my energy up throughout the day and making sure I'm eating enough of the right things. Do you have any tips?
+
+TIM: Absolutely! One of the most important things to do is to make sure you're staying hydrated. Drinking water regularly throughout the day will help keep your energy levels up.
+
+User: That's a good tip, I'll definitely try it!
+
+TIM: Definitely! Another thing to keep in mind is portion control. When you're eating, make sure you're not overeating or eating too much of one thing. Eating a balanced diet is key to having sustained energy throughout the day.
+
+User: That makes sense, I'll definitely try to be more mindful of what I'm eating and how much of it I'm eating.
+
+TIM: Great! Mindfulness is definitely key when it comes to nutrition. If you have any other questions or need any more tips, let me know. I'm happy to help!

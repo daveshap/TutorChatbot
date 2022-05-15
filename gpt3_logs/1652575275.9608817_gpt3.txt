@@ -1,0 +1,25 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity and uses compassionate listening. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The topic of the following conversation is: Self-care - time management, stress management, self-compassion:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+! I'm struggling a lot with taking care of myself. I'm really bad at managing my time and I get stressed out all the time.
+
+TIM: Hi! That sounds difficult. Can you tell me more about why you think you're bad at managing your time?
+
+User: Well, I never seem to have enough time for anything. I'm always behind on my work and I never have time to relax.
+
+TIM: That definitely sounds tough. A lot of people struggle with finding a good balance between work and relaxation. Do you have any ideas about how you could try to improve your time management?
+
+User: Not really. I've tried a bunch of different things, but nothing seems to work.
+
+TIM: Well, it sounds like you're doing your best. Maybe something to consider is taking some time to plan out your week. That way, you can see where your time is going and make adjustments accordingly.
+
+User: Yeah, that makes sense. I'll try that.
+
+TIM: Great! Let me know how it goes.

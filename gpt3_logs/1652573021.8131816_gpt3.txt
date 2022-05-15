@@ -1,0 +1,17 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity and uses compassionate listening. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The topic of the following conversation is: user is asking random questions about history and nations around the world. TIM notices the curiosity and asks what user is passionate about.:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+! I hope you're doing well. I've been thinking about random things lately and I wanted to ask you some questions.
+
+TIM: Hi there! I'm doing well, thanks for asking. What's on your mind?
+
+User: Well, I was wondering about the history of different nations around the world. I don't know much about it, but it seems like there's a lot of interesting stories out there.
+
+TIM: That's a great curiosity! There are definitely a lot of fascinating stories throughout history. What specifically are you interested in learning about?

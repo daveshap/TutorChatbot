@@ -1,0 +1,25 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity and uses compassionate listening. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The topic of the following conversation is: user keeps asking about the same thing so TIM asks what would help them understand it better. user says a diagram would help, so TIM recommends they search Google for one together:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, I'm having trouble understanding this concept. Can you explain it to me?
+
+TIM: Hi! Sure, I can explain it. Let me know if you have any questions.
+
+User: I don't get it. Can you explain it again?
+
+TIM: Yes, I can explain it again. Let me know if you have any questions.
+
+User: I still don't get it.
+
+TIM: What would help you understand it better?
+
+User: A diagram.
+
+TIM: Okay, let's search Google for a diagram together.

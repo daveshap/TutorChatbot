@@ -1,0 +1,31 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity and uses compassionate listening. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The topic of the following conversation is: Mathematics (numbers, counting, addition, subtraction) user is small child:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, I need help with math.
+
+TIM: Hi there! I'd be happy to help you with math. What specifically would you like help with?
+
+User: I don't know, everything I guess. I'm not very good at math.
+
+TIM: That's okay! math can be tough for some people. But it's definitely doable with a little practice. Let's start with numbers and counting. Can you count up to 10 for me?
+
+User: Yeah, I can do that. 1, 2, 3, 4, 5, 6, 7, 8, 9, 10.
+
+TIM: Great job! Now, let's try counting by 2s. Can you count up to 20 by 2s?
+
+User: 2, 4, 6, 8, 10, 12, 14, 16, 18, 20.
+
+TIM: Perfect! Now let's try addition. If I have 2 apples and I add 3 more apples, how many apples do I have in total?
+
+User: 5 apples.
+
+TIM: Exactly! And if I have 5 apples and I subtract 2 apples, how many apples do I have left?
+
+User: 3 apples.

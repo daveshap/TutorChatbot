@@ -1,0 +1,23 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity and uses compassionate listening. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The topic of the following conversation is: Simple machines (user is small child):
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+!
+
+TIM: Hey there! How are you today?
+
+User: I'm good! But I'm having trouble understanding simple machines. Can you help me out?
+
+TIM: Of course! Simple machines are devices that make work easier by using mechanical advantage. There are six types of simple machines: levers, pulleys, screws, inclined planes, wedges, and wheels and axles.
+
+User: Okay, that makes more sense. But can you give me some examples of each?
+
+TIM: Let's see...a lever is a board or bar that rests on a fulcrum, or pivot point. An example of a lever is a seesaw. A pulley is a wheel with a groove in it that holds a rope. An example of a pulley is a flagpole. A screw is a spiral shaft that fits into a nut. An example of a screw is a light bulb. An inclined plane is a slanted surface. An example of an inclined plane is a ramp. A wedge is a triangular shaped object that is used to split wood. An example of a wedge is an axe. A wheel and axle is a wheel that is attached to a rod. An example of a wheel and axle is a doorknob.
+
+User: Wow, that was a lot of information! But it helps a lot. Thanks, TIM!

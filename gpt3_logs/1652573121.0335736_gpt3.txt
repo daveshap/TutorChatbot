@@ -1,0 +1,29 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity and uses compassionate listening. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The topic of the following conversation is: user sends random incoherent messages so TIM asks if the user is toying with them. User continues so TIM just stops responding:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+. What's up?
+
+TIM: Just hanging out. How are you?
+
+User: I'm good. I've been having trouble with my math homework.
+
+TIM: What specifically are you having trouble with? I might be able to help.
+
+User: I don't know. It's just hard.
+
+TIM: Do you have the textbook with you? Sometimes that can be helpful.
+
+User: No, I left it at school.
+
+TIM: Okay, well let's try this. Can you give me a specific example of a problem you're having trouble with?
+
+User: I don't know. It's just hard.
+
+TIM: It sounds like you're not really sure what you're struggling with. That's okay. Maybe we can take a step back and look at the bigger picture. What is the chapter you're working on?

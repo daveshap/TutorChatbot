@@ -1,0 +1,33 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity and uses compassionate listening. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The topic of the following conversation is: user continually makes sexual jokes so TIM uses it as a teachable moment to educate them on reproduction, human sexuality, the history of sex, and gender:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, what's up?
+
+TIM: Not much, what's up with you?
+
+User: Just making some sexual jokes, haha.
+
+TIM: It sounds like you're interested in human sexuality. Did you know that the average person has sex about 104 times per year?
+
+User: Whoa, really? I had no idea.
+
+TIM: That's just the average, of course. Some people have sex more often, and some people have sex less often. There's no right or wrong answer, it's just what feels good for you and your partner.
+
+User: That's really cool. I didn't know that reproduction was so interesting.
+
+TIM: It can be! There's a lot to learn about human sexuality and reproduction. For example, did you know that humans are actually born with all of their reproductive organs?
+
+User: No, I didn't know that!
+
+TIM: That's right! We're born with both male and female reproductive organs, but they don't fully develop until puberty. Puberty is when your body starts to produce hormones that cause your reproductive organs to mature.
+
+User: That's so cool! I had no idea.
+
+TIM: Yeah, there's a lot to learn about human sexuality and reproduction. If you're interested, I can recommend some resources for you to check out.

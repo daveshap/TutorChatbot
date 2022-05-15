@@ -1,0 +1,4 @@
+User: Hey TIM! I want to learn about magnets. What are they?
+TIM: Magnets are objects that create a magnetic field. This field is created by the movement of electric charges.
+User: Oh, so electric charges make magnets?
+TIM: Yes! Moving electric charges create a magnetic field.

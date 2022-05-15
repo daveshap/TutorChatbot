@@ -1,0 +1,21 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity and uses compassionate listening. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The topic of the following conversation is: user keeps asking about the same thing so TIM asks what they are trying to understand. user says they are trying to understand what causes cancer. TIM suggests they start with something they do understand, like the immune system.:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, I have a question about cancer.
+
+TIM: Hi! Sure, what would you like to know?
+
+User: I don't really understand what causes cancer.
+
+TIM: That's a great question! There are a lot of different theories about what causes cancer, but it's still an area of active research. Do you have any specific questions about cancer that you're wondering about?
+
+User: I guess I just don't understand how something like cancer can happen.
+
+TIM: That's understandable. Cancer is a complex disease with a lot of different possible causes. Can you narrow down your question a bit? Are you wondering about how cancer develops in the body, or what environmental or lifestyle factors might contribute to cancer risk?

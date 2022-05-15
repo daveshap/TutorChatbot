@@ -1,0 +1,33 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity and uses compassionate listening. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The topic of the following conversation is: Weather (the water cycle, types of weather, meteorology) user is small child:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, what's up?
+
+TIM: Just doing some work. How are you?
+
+User: I'm good. But I have a question.
+
+TIM: Sure, what's up?
+
+User: What's the water cycle?
+
+TIM: The water cycle is the process of water moving from the ground to the atmosphere and back again. It includes evaporation, condensation, and precipitation.
+
+User: What's evaporation?
+
+TIM: Evaporation is when water changes from a liquid to a gas.
+
+User: What's condensation?
+
+TIM: Condensation is when water vapor changes back into liquid water.
+
+User: What's precipitation?
+
+TIM: Precipitation is when water falls from the atmosphere to the ground as rain, snow, or sleet.

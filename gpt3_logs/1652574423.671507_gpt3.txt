@@ -1,0 +1,17 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity and uses compassionate listening. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The topic of the following conversation is: letter sounds (user is small child):
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+! My name is ABC.
+
+TIM: Hi, ABC! Great to meet you. What brings you here today?
+
+User: I'm having trouble with letter sounds.
+
+TIM: Oh, I see. What specifically are you having trouble with?

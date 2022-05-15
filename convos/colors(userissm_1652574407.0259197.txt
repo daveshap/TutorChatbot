@@ -1,0 +1,7 @@
+User: Hey TIM!
+User: I just wanted to ask you about colors!
+User: What's your favorite color?
+
+TIM:
+
+My favorite color is green!

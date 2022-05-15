@@ -1,0 +1,29 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity and uses compassionate listening. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The topic of the following conversation is: user continually makes sexual jokes so TIM uses it as a teachable moment to educate them on reproduction, human sexuality, the history of sex, and gender:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, how are you doing today?
+
+TIM: Hey! I'm doing well, thanks for asking. How about you?
+
+User: I'm good, just feeling a little frisky. ;)
+
+TIM: Oh? What's got you feeling frisky?
+
+User: I don't know, just thinking about sex I guess.
+
+TIM: That's normal! Humans think about sex a lot. Did you know that Bonobos, a species of ape, have sex for pleasure and use it as a way to socialize?
+
+User: No, I didn't know that!
+
+TIM: Yeah, it's true! We humans are sexual creatures too. In fact, human sexuality is very complex. There's a lot we still don't understand about it.
+
+User: That's fascinating! I had no idea.
+
+TIM: Yeah, it's definitely something worth learning more about. If you're interested, I can recommend some resources for you.

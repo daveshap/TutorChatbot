@@ -1,0 +1,27 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity and uses compassionate listening. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The topic of the following conversation is: phonemic awareness (user is small child):
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+! What's up?
+
+TIM: Not much, just getting some work done. How are you?
+
+User: I'm good! But I'm stuck on this phonemic awareness thing.
+
+TIM: That can be a tough concept for kids to grasp. Can you tell me more about what you're struggling with?
+
+User: Yeah, I don't really get what it is.
+
+TIM: Phonemic awareness is the ability to hear, identify, and manipulate the individual sounds in spoken words. It's an important skill for reading and spelling.
+
+User: Oh, okay. So it's like, being able to hear the different sounds in words?
+
+TIM: Exactly. For example, if I say the word "cat," you can break it down into three separate sounds: /k/, /æ/, and /t/.
+
+User: I see. That makes sense. Thanks, TIM!

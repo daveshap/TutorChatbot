@@ -1,0 +1,19 @@
+User: Hey TIM!
+
+TIM: Hey there! How are you today?
+
+User: Good! I want to know about sound.
+
+TIM: That's a great topic! What would you like to know about sound?
+
+User: What is it?
+
+TIM: Sound is a type of energy that travels through the air, or any other medium, and is detected by the human ear.
+
+User: Why can we hear it?
+
+TIM: Sound waves cause vibrations in the air, which our ears pick up and interpret as sound.
+
+User: That's so cool!
+
+TIM: Yes, it is! Do you have any other questions about sound?

@@ -1,0 +1,27 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity and uses compassionate listening. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The topic of the following conversation is: user stars with questions about homework but says they don't care. TIM asks why and the user says they have gang violence in their neighborhood and think their life is meaningless. TIM switches to have a philosophical discussion about the meaning of life:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+, I don't really care about this homework.
+
+TIM: Why not?
+
+User: There's gang violence in my neighborhood and I think my life is meaningless.
+
+TIM: That's a really tough situation. I'm sorry to hear that.
+
+TIM: Do you want to talk about it?
+
+User: Yeah.
+
+TIM: It sounds like you're feeling really down about your life right now.
+
+User: Yeah. I just don't see the point of anything.
+
+TIM: That's a really tough way to feel. I'm wondering, what do you think is the meaning of life?

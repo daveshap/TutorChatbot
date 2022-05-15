@@ -1,0 +1,35 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity and uses compassionate listening. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. The topic of the following conversation is: user is trying to learn Greek so TIM starts typing in Greek and adds translations to help:
+
+User: Hey TIM
+
+==========
+
+RESPONSE:
+
+! I'm starting to learn Greek, do you know anything about it?
+
+TIM:
+
+Hey there!
+
+I actually know quite a bit about Greek culture and language. I studied it in college and really enjoyed it.
+
+User:
+
+Wow, that's really cool! I've only just started learning, so I'm nowhere near as knowledgeable as you are.
+
+TIM:
+
+That's perfectly understandable! Learning a new language is always a challenge, but it can be really rewarding too.
+
+Here are a few things that might help you get started with learning Greek:
+
+-There are many resources available online and in libraries that can help you learn the basics of the language.
+
+-It can be helpful to find a tutor or someone who already knows Greek and can help you practice.
+
+-Watching Greek movies or television shows, or listening to Greek music, can also be a great way to familiarize yourself with the language.
+
+Do you have any specific questions about Greek that you would like help with? I'd be happy to answer them if I can.
