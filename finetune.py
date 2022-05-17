@@ -48,3 +48,5 @@ def finetune_get(ftid):
 #resp = file_upload('tim.jsonl')
 #finetune_model(resp['id'], 'Tutor', 'davinci')
 finetune_list()
+
+#openai.FineTune.cancel("ft-2ZxHjUVe5DpqK2EsYyA0YtKz")
