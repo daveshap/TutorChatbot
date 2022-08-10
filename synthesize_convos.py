@@ -52,7 +52,7 @@ if __name__ == '__main__':
             response = gpt3_completion(prompt)
             outtext = 'User: Hey TIM%s' % response
             print(outtext)
-            tpc = topic.replace(' ', '').replace('(','').replace(')','').replace('-','').replace(',','').replace('"')[0:15]
+            tpc = topic.replace(' ', '').replace('(','').replace(')','').replace('-','').replace(',','').replace('"', '')[0:15]
             save_convo(outtext, tpc)
             #exit()
             
